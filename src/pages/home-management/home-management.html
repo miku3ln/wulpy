@@ -1,0 +1,47 @@
+<ion-header>
+
+  <ion-navbar>
+    <button ion-button icon-only menuToggle>
+      <ion-icon name="menu"></ion-icon>
+    </button>
+    <ion-title> {{title}}</ion-title>
+  </ion-navbar>
+</ion-header>
+
+
+<ion-content padding>
+
+  <form #entidadForm="ngForm" class="form" (ngSubmit)="saveRegister()">
+    <h3> Información Página</h3>
+    <ion-list>
+      <ion-item>
+
+        <ion-label stacked>Titulo Pagina:</ion-label>
+        <ion-input type="text" placeholder="Nombre" [(ngModel)]="formData.title" name="title"></ion-input>
+      </ion-item>
+      <ion-item>
+
+        <ion-label stacked>Descripción:</ion-label>
+        <ion-textarea type="text" placeholder="ejemp. Es una pagina para poder realizar." name="description" [(ngModel)]="formData.description"
+        >
+        </ion-textarea>
+      </ion-item>
+    </ion-list>
+    <ion-row>
+
+      <ion-col col-12>
+        <label *ngIf="errorMessage!=''">
+          <span>{{errorMessage}}</span>
+        </label>
+      </ion-col>
+    </ion-row>
+    <ion-row  class="content-btn-management">
+      <ion-col>
+        <button ion-button block color="secondary" type="submit" [disabled]="!entidadForm.form.valid">
+          {{btnRegisterTitle}}
+        </button>
+      </ion-col>
+    </ion-row>
+
+  </form>
+</ion-content>

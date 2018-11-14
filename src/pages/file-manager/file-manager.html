@@ -1,0 +1,57 @@
+<ion-header>
+
+  <ion-navbar>
+    <button ion-button icon-only menuToggle>
+      <ion-icon name="menu"></ion-icon>
+    </button>
+    <ion-title> {{title}}</ion-title>
+  </ion-navbar>
+
+</ion-header>
+
+<ion-content padding>
+
+
+  <!-- Fab Button -->
+  <ion-fab #fab bottom down left class="content-btn-management">
+    <button button-ion-fab ion-fab (click)="viewManagementType()">
+      <ion-icon name="add"></ion-icon>
+    </button>
+  </ion-fab>
+
+  <div padding>
+    <ion-segment [(ngModel)]="modelSegments">
+      <ion-segment-button value="{{segments[0].value}}">
+        {{segments[0].name}}
+      </ion-segment-button>
+      <ion-segment-button value="{{segments[1].value}}">
+        {{segments[1].name}}
+      </ion-segment-button>
+    </ion-segment>
+  </div>
+
+  <div [ngSwitch]="modelSegments">
+
+
+    <ion-list *ngSwitchCase="segments[0].value" class="categories-content">
+      <list-big-image-data
+        *ngIf="paramsDataManagementCategories"
+        [paramsDataManagement]="paramsDataManagementCategories"
+        (changesEmitButtons)="changesValuesChildrenButtons($event)"
+      >
+      </list-big-image-data>
+    </ion-list>
+    <ion-list *ngSwitchCase="segments[1].value" class="subcategories-content">
+
+      <list-big-image-data
+        *ngIf="paramsDataManagementSubCategories"
+        [paramsDataManagement]="paramsDataManagementSubCategories"
+        (changesEmitButtons)="changesValuesChildrenButtons($event)"
+      >
+      </list-big-image-data>
+
+    </ion-list>
+  </div>
+
+</ion-content>
+

@@ -1,0 +1,3041 @@
+{
+  "business" : {
+    "-LNMN6EZRJxTuQ-l2gS-" : {
+      "_token" : "2fnibDVrlx5GbtGgpxLgrpw81rQ6WsgRYZRleJgr",
+      "business_subcategory_id" : "1",
+      "created_at" : 1537990489061,
+      "phone_value" : "0985617541",
+      "street_1" : "Piedrahita",
+      "street_2" : "Buenos Aires",
+      "street_lat" : "0.19194828269153583",
+      "street_lng" : "-78.18983305183104",
+      "title" : "Plaza Pallares"
+    },
+    "-LNMNruCToZ5B3b9AO_7" : {
+      "_token" : "2fnibDVrlx5GbtGgpxLgrpw81rQ6WsgRYZRleJgr",
+      "business_id" : "-LNMNruCToZ5B3b9AO_7",
+      "business_subcategory_id" : "2",
+      "created_at" : 1537990743568,
+      "description" : "a",
+      "phone_value" : "09742122",
+      "street_1" : "Guayaquil",
+      "street_2" : "Quito",
+      "street_lat" : "0.21151755827061924",
+      "street_lng" : "-78.2095741101806",
+      "title" : "Seven"
+    },
+    "-LNMPQU0HuZLzGDzGhAl" : {
+      "_token" : "2fnibDVrlx5GbtGgpxLgrpw81rQ6WsgRYZRleJgr",
+      "business_id" : "-LNMPQU0HuZLzGDzGhAl",
+      "business_subcategory_id" : "21",
+      "created_at" : 1537991131109,
+      "phone_value" : "0985871221",
+      "street_1" : "Piedrahita",
+      "street_2" : "Buenos Aires",
+      "street_lat" : "0.22044388644259416",
+      "street_lng" : "-78.26278913703607",
+      "title" : "Hostal Chasqui 2"
+    }
+  },
+  "checkBoxes" : {
+    "layout1" : [ {
+      "favorite" : true,
+      "icon" : "",
+      "id" : 1,
+      "image" : "",
+      "title" : "Song"
+    }, {
+      "favorite" : false,
+      "icon" : "",
+      "id" : 2,
+      "image" : "",
+      "title" : "Album"
+    }, {
+      "favorite" : false,
+      "icon" : "",
+      "id" : 3,
+      "image" : "",
+      "title" : "Artist"
+    }, {
+      "favorite" : true,
+      "icon" : "",
+      "id" : 4,
+      "image" : "",
+      "title" : "Song"
+    }, {
+      "favorite" : false,
+      "icon" : "",
+      "id" : 5,
+      "image" : "",
+      "title" : "Album"
+    }, {
+      "favorite" : false,
+      "icon" : "",
+      "id" : 6,
+      "image" : "",
+      "title" : "Artist"
+    } ],
+    "layout2" : [ {
+      "favorite" : false,
+      "icon" : "",
+      "id" : 1,
+      "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/avatar%2F1.jpg?alt=media&token=5974f480-acdd-4000-9d9d-8a6f0ee00859",
+      "title" : "Name Surname"
+    }, {
+      "favorite" : false,
+      "icon" : "",
+      "id" : 2,
+      "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/avatar%2F2.jpg?alt=media&token=a43152ce-3ebe-430b-87c1-82bd2a160af1",
+      "title" : "Name Surname"
+    }, {
+      "favorite" : false,
+      "icon" : "",
+      "id" : 3,
+      "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/avatar%2F3.jpg?alt=media&token=2277f6d1-7f5d-49c4-b329-6be869c794e7",
+      "title" : "Name Surname"
+    }, {
+      "favorite" : false,
+      "icon" : "",
+      "id" : 4,
+      "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/avatar%2F4.jpg?alt=media&token=ed4d5233-4d6d-4127-a5bd-638043587f7b",
+      "title" : "Name Surname"
+    }, {
+      "favorite" : false,
+      "icon" : "",
+      "id" : 5,
+      "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/avatar%2F5.jpg?alt=media&token=34d4cd54-66ca-41e5-ab31-8b52514e68a9",
+      "title" : "Name Surname"
+    }, {
+      "favorite" : false,
+      "icon" : "",
+      "id" : 6,
+      "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/avatar%2F6.jpg?alt=media&token=89322f3e-d0d9-4d3d-bb93-67d4746dbb86",
+      "title" : "Name Surname"
+    } ],
+    "layout3" : [ {
+      "icon" : "icon-music-box",
+      "id" : 1,
+      "title" : "Song"
+    }, {
+      "icon" : "icon-music-box",
+      "id" : 2,
+      "title" : "Album"
+    }, {
+      "icon" : "icon-music-box",
+      "id" : 3,
+      "title" : "Artist"
+    }, {
+      "icon" : "icon-music-box",
+      "id" : 4,
+      "title" : "Song"
+    }, {
+      "icon" : "icon-music-box",
+      "id" : 5,
+      "title" : "Album"
+    }, {
+      "icon" : "icon-music-box",
+      "id" : 6,
+      "title" : "Artist"
+    } ]
+  },
+  "home" : {
+    "background" : "assets/images/background/29.jpg",
+    "description" : "Fosr betster understanding how our template works please read documentation.",
+    "link" : "http://csform.com/documentation-for-ionic-2-ui-template-app/",
+    "subtitle" : "holas",
+    "subtitle2" : "and make apps fast s as light!",
+    "title" : "SAVE HOURS",
+    "toolbarTitle" : "WulpyesTod"
+  },
+  "imageGallery" : {
+    "layout1" : {
+      "items" : [ {
+        "favorite" : true,
+        "id" : 1,
+        "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/gallery%2Fdogs%2F14250733433_271362f4ff_h.jpg?alt=media&token=9b6fbcd3-e49f-41cf-87a5-8085dbc0bf6f",
+        "items" : [ {
+          "id" : 1,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/gallery%2Fdogs%2F14250733433_271362f4ff_h.jpg?alt=media&token=9b6fbcd3-e49f-41cf-87a5-8085dbc0bf6f",
+          "title" : "Dog 1"
+        }, {
+          "id" : 2,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/gallery%2Fdogs%2F174085592_c0b7e5076f_o.jpg?alt=media&token=4b6e144a-53f7-4f8c-9e9c-b2b09d026356",
+          "title" : "Dog 2"
+        }, {
+          "id" : 3,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/gallery%2Fdogs%2F174097822_6c0aae32e1_o.jpg?alt=media&token=7d602a72-e8b2-417a-8612-6982b1b8353c",
+          "title" : "Dog 3"
+        }, {
+          "id" : 4,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/gallery%2Fdogs%2F4733823624_a758c8e8e9_b.jpg?alt=media&token=d408c60a-982b-486a-9404-d49693a1acfa",
+          "title" : "Dog 4"
+        }, {
+          "id" : 5,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/gallery%2Fdogs%2F4939588185_4dc4fa8cca_b.jpg?alt=media&token=415c2446-6220-414f-90a2-57550010f96f",
+          "title" : "Dog 5"
+        }, {
+          "id" : 6,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/gallery%2Fdogs%2F6698150783_161b18182e_b.jpg?alt=media&token=bee192c4-d4e1-4ec0-9624-58c46321f0a9",
+          "title" : "Dog 6"
+        }, {
+          "id" : 7,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/gallery%2Fdogs%2F6787786882_4e74d00628_b.jpg?alt=media&token=cae7bc9b-e297-455b-a6a4-1b0ab93fd13d",
+          "title" : "Dog 7"
+        }, {
+          "id" : 8,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/gallery%2Fdogs%2F8206632393_36622366c6_k.jpg?alt=media&token=1f1ad78b-5fa7-44e5-aa47-143e7c58796f",
+          "title" : "Dog 8"
+        } ],
+        "title" : "Dogs"
+      }, {
+        "favorite" : false,
+        "id" : 2,
+        "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/gallery%2Fhorses%2F1242426877_9cdace7a19_b.jpg?alt=media&token=3654b423-fcc8-4254-9103-a2fa050c5a1e",
+        "items" : [ {
+          "id" : 1,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/gallery%2Fhorses%2F1242426877_9cdace7a19_b.jpg?alt=media&token=3654b423-fcc8-4254-9103-a2fa050c5a1e",
+          "title" : "Horses 1"
+        }, {
+          "id" : 2,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/gallery%2Fhorses%2F2795764001_1e899c8560_b.jpg?alt=media&token=3841fdf3-999c-4684-9ec2-d0e92c8e2346",
+          "title" : "Horses 2"
+        }, {
+          "id" : 3,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/gallery%2Fhorses%2F3571783564_b02308c31c_b.jpg?alt=media&token=a6fedc46-d02d-4607-a12a-888869a2a48e",
+          "title" : "Horses 3"
+        }, {
+          "id" : 4,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/gallery%2Fhorses%2F3724307231_7077e8a5da_b.jpg?alt=media&token=600348ad-4a71-41e5-a291-289dc106fb73",
+          "title" : "Horses 4"
+        }, {
+          "id" : 5,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/gallery%2Fhorses%2F548518280_b408f3d2a5_o.jpg?alt=media&token=485af258-d441-46ae-bd54-76be15a35fc3",
+          "title" : "Horses 5"
+        }, {
+          "id" : 6,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/gallery%2Fhorses%2F6990704333_abff211880_b.jpg?alt=media&token=64ef44a0-781f-42ac-9fe8-627eb6259767",
+          "title" : "Horses 6"
+        }, {
+          "id" : 7,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/gallery%2Fhorses%2F8621170742_15cd967dc8_b.jpg?alt=media&token=6c142ec4-ad6d-4048-955f-543507211f06",
+          "title" : "Horses 7"
+        }, {
+          "id" : 8,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/gallery%2Fhorses%2F9581032545_e388ee7d3e_b.jpg?alt=media&token=6d79209a-f5cd-4087-bfa1-830c027549f5",
+          "title" : "Horses 8"
+        } ],
+        "title" : "Horses"
+      }, {
+        "favorite" : false,
+        "id" : 3,
+        "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/gallery%2Fcats%2F15636456045_f99e3a5ccd_k.jpg?alt=media&token=1d7caa70-349e-4cce-a08b-dfcad8b754aa",
+        "items" : [ {
+          "id" : 1,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/gallery%2Fcats%2F15636456045_f99e3a5ccd_k.jpg?alt=media&token=1d7caa70-349e-4cce-a08b-dfcad8b754aa",
+          "title" : "Cats 1"
+        }, {
+          "id" : 2,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/gallery%2Fcats%2F3285731954_a31261bd38_o.jpg?alt=media&token=d27357d0-d572-41b0-be85-90acba9d8a23",
+          "title" : "Cats 2"
+        }, {
+          "id" : 3,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/gallery%2Fcats%2F560380352_8b58b0611c_o.jpg?alt=media&token=b25a2709-b5a5-4824-b4c8-4c3d9f0bb648",
+          "title" : "Cats 3"
+        }, {
+          "id" : 4,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/gallery%2Fcats%2F6131811835_b7cdb594f3_b.jpg?alt=media&token=21266823-70fc-45c4-9534-6673a8df350f",
+          "title" : "Cats 4"
+        }, {
+          "id" : 5,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/gallery%2Fcats%2F6944735673_7d201cbb98_k.jpg?alt=media&token=a66d3fd6-6006-4e71-acd1-9e69b6d3a6b3",
+          "title" : "Cats 4"
+        }, {
+          "id" : 6,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/gallery%2Fcats%2F8470085922_ed703dcda3_b.jpg?alt=media&token=8abcea6e-1f24-4a55-913e-8facc387fb7e",
+          "title" : "Cats 5"
+        }, {
+          "id" : 7,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/gallery%2Fcats%2F8854205418_3739d5b3e9_h.jpg?alt=media&token=22f2e7e5-0eb2-4b76-9af0-dd30b79054bb",
+          "title" : "Cats 6"
+        }, {
+          "id" : 8,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/gallery%2Fcats%2F9308613838_de3df521b0_b.jpg?alt=media&token=5436964e-b8b8-41ac-8dc7-fbd584646fb2",
+          "title" : "Cats 7"
+        }, {
+          "id" : 9,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/gallery%2Fcats%2F9657345685_b680cd813b_k.jpg?alt=media&token=9b2b977b-db5a-4c52-8255-64e663249c97",
+          "title" : "Cats 8"
+        } ],
+        "title" : "Cats"
+      }, {
+        "favorite" : false,
+        "id" : 4,
+        "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/gallery%2Fkangaroos%2F14018941654_b24dc40edd_k.jpg?alt=media&token=f594113d-8bb2-480e-b065-7854da65b09f",
+        "items" : [ {
+          "id" : 1,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/gallery%2Fkangaroos%2F14018941654_b24dc40edd_k.jpg?alt=media&token=f594113d-8bb2-480e-b065-7854da65b09f",
+          "title" : "Kangaroo 1"
+        }, {
+          "id" : 2,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/gallery%2Fkangaroos%2F4849609708_06a24058ec_b.jpg?alt=media&token=d8683017-840c-4fc8-a5b4-ecce4febb1fb",
+          "title" : "Kangaroo 2"
+        }, {
+          "id" : 3,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/gallery%2Fkangaroos%2F4901737404_cf375a44d3_b.jpg?alt=media&token=d994cc68-6d38-4544-b42e-3114e7274edf",
+          "title" : "Kangaroo 3"
+        }, {
+          "id" : 4,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/gallery%2Fkangaroos%2F4962092282_15a076cb8c_b.jpg?alt=media&token=8feddb22-d98c-43e6-a905-98f9c41a8098",
+          "title" : "Kangaroo 4"
+        }, {
+          "id" : 5,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/gallery%2Fkangaroos%2F5366854530_35d6de81c2_b.jpg?alt=media&token=e61c52ff-db48-49f1-afa3-6841f26a0596",
+          "title" : "Kangaroo 5"
+        }, {
+          "id" : 6,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/gallery%2Fkangaroos%2F7643187732_3753aa9b70_k.jpg?alt=media&token=b21d63e6-e977-4d2f-8e1a-4a4b6a7edd94",
+          "title" : "Kangaroo 6"
+        }, {
+          "id" : 7,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/gallery%2Fkangaroos%2F8275651371_0e5e6bffc4_k.jpg?alt=media&token=cb6abdf9-39ff-4ed5-9118-1d3d9a826167",
+          "title" : "Kangaroo 7"
+        }, {
+          "id" : 8,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/gallery%2Fkangaroos%2F8672908837_1ec6c9c967_b.jpg?alt=media&token=96e6e397-a8c7-4583-9f61-64d8e487d305",
+          "title" : "Kangaroo 8"
+        } ],
+        "title" : "Kangaroos"
+      }, {
+        "favorite" : true,
+        "id" : 5,
+        "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/gallery%2Ffoxes%2F2741843163_5aefaae694_b.jpg?alt=media&token=d7879b99-7ce0-43e5-b6f1-938b9d186956",
+        "items" : [ {
+          "id" : 1,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/gallery%2Ffoxes%2F2741843163_5aefaae694_b.jpg?alt=media&token=d7879b99-7ce0-43e5-b6f1-938b9d186956",
+          "title" : "Fox 1"
+        }, {
+          "id" : 2,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/gallery%2Ffoxes%2F5461393397_b7bbff4c87_b.jpg?alt=media&token=19082401-b2c8-46c6-8382-615b11788b1c",
+          "title" : "Fox 2"
+        }, {
+          "id" : 3,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/gallery%2Ffoxes%2F5872864880_b1739e6e76_b.jpg?alt=media&token=f88838e2-4a6b-4964-bc28-775be6eddd26",
+          "title" : "Fox 3"
+        }, {
+          "id" : 4,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/gallery%2Ffoxes%2F6904712695_751bb39e16_b.jpg?alt=media&token=7f6a68c4-4350-45b6-a5cc-85cd08bdf1d8",
+          "title" : "Fox 4"
+        }, {
+          "id" : 5,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/gallery%2Ffoxes%2F6904714319_c4dbbb2b14_b.jpg?alt=media&token=cc352d73-4e16-4a7d-93ef-d2c57343096f",
+          "title" : "Fox 5"
+        }, {
+          "id" : 6,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/gallery%2Ffoxes%2F6977256115_af1011fbfb_h.jpg?alt=media&token=f72b2114-e1db-4493-9b90-997ab215b82e",
+          "title" : "Fox 6"
+        }, {
+          "id" : 7,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/gallery%2Ffoxes%2F7132259891_878e6513c4_k.jpg?alt=media&token=78ff17b1-a960-42e6-b729-92c5c246d7e1",
+          "title" : "Fox 7"
+        }, {
+          "id" : 8,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/gallery%2Ffoxes%2F7238361098_5d244ea023_b.jpg?alt=media&token=81be0a21-5009-4d19-bbca-3893d5bcc045",
+          "title" : "Fox 8"
+        } ],
+        "title" : "Foxes"
+      }, {
+        "favorite" : true,
+        "id" : 6,
+        "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/gallery%2Feagles%2F12111485434_015bcf17e0_k.jpg?alt=media&token=3b48d553-1dcc-477a-87b5-a5234901f586",
+        "items" : [ {
+          "id" : 1,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/gallery%2Feagles%2F12111485434_015bcf17e0_k.jpg?alt=media&token=3b48d553-1dcc-477a-87b5-a5234901f586",
+          "title" : "Eagles 1"
+        }, {
+          "id" : 2,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/gallery%2Feagles%2F12111485434_015bcf17e0_k.jpg?alt=media&token=3b48d553-1dcc-477a-87b5-a5234901f586",
+          "title" : "Eagles 2"
+        }, {
+          "id" : 3,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/gallery%2Feagles%2F3358262896_8a623dc7ca_b.jpg?alt=media&token=99b81746-b716-42e3-a174-c55f9b39c46f",
+          "title" : "Eagles 3"
+        }, {
+          "id" : 4,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/gallery%2Feagles%2F6130420503_b5516d49e4_b.jpg?alt=media&token=71c81122-65d3-455c-b549-79b2f7ca26c0",
+          "title" : "Eagles 4"
+        }, {
+          "id" : 5,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/gallery%2Feagles%2F7924818318_d4f0355bdd_k.jpg?alt=media&token=bc8e95ee-94f6-4b81-a483-eef0816d26c5",
+          "title" : "Eagles 5"
+        }, {
+          "id" : 6,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/gallery%2Feagles%2F8626880581_7308f6a8a7_k.jpg?alt=media&token=f04bf31a-2f4e-47b3-be2e-1ac8a20d0f09",
+          "title" : "Eagles 6"
+        }, {
+          "id" : 7,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/gallery%2Feagles%2F9395841437_95035aed96_k.jpg?alt=media&token=6858518b-c1ee-4be7-b8fb-03ef3ef40f30",
+          "title" : "Eagles 7"
+        } ],
+        "title" : "Eagles"
+      }, {
+        "favorite" : true,
+        "id" : 7,
+        "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/gallery%2Fsquirrels%2F12683899725_ec12a691c5_k.jpg?alt=media&token=838da046-4ce7-4b97-ad12-a548d9a9fac6",
+        "items" : [ {
+          "id" : 1,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/gallery%2Fsquirrels%2F12683899725_ec12a691c5_k.jpg?alt=media&token=838da046-4ce7-4b97-ad12-a548d9a9fac6",
+          "title" : "Squirrels 1"
+        }, {
+          "id" : 2,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/gallery%2Fsquirrels%2F12935575784_bcb43443f9_b.jpg?alt=media&token=9cfdaaad-b50a-4248-9a8d-d2967bcefd18",
+          "title" : "Squirrels 2"
+        }, {
+          "id" : 3,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/gallery%2Fsquirrels%2F15365307348_82551c3cb6_h.jpg?alt=media&token=d2656ab7-9ac7-4b8d-b42b-5fcb6c8e4d6f",
+          "title" : "Squirrels 3"
+        }, {
+          "id" : 4,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/gallery%2Fsquirrels%2F2438938256_655ed4f254_b.jpg?alt=media&token=132ddcc8-9904-4262-9e33-221e1235a076",
+          "title" : "Squirrels 4"
+        }, {
+          "id" : 5,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/gallery%2Fsquirrels%2F5194088091_f8af189189_b.jpg?alt=media&token=f43168d7-d9c1-4f27-857a-80a26ab6e7c4",
+          "title" : "Squirrels 5"
+        }, {
+          "id" : 6,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/gallery%2Fsquirrels%2F5339749381_f1c0a3040b_b.jpg?alt=media&token=098bbc51-12bd-4873-b233-937dc0ef01ad",
+          "title" : "Squirrels 6"
+        }, {
+          "id" : 7,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/gallery%2Fsquirrels%2F6359846085_c88e231c01_b.jpg?alt=media&token=dc2a42df-b7bc-4b87-b3af-871da7967d26",
+          "title" : "Squirrels 7"
+        }, {
+          "id" : 8,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/gallery%2Fsquirrels%2F6583159839_0ba9c33a75_b.jpg?alt=media&token=d04b2b22-0232-4b00-933d-a6fbdea3bf54",
+          "title" : "Squirrels 8"
+        } ],
+        "title" : "Squirrels"
+      }, {
+        "favorite" : true,
+        "id" : 8,
+        "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/gallery%2Fbears%2F14316604273_778ccdac73_b.jpg?alt=media&token=b7cf278e-8a71-4f2d-92fa-b4ad68adb064",
+        "items" : [ {
+          "id" : 1,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/gallery%2Fbears%2F14316604273_778ccdac73_b.jpg?alt=media&token=b7cf278e-8a71-4f2d-92fa-b4ad68adb064",
+          "title" : "Bears 1"
+        }, {
+          "id" : 2,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/gallery%2Fbears%2F14567666406_61df9c0d52_k.jpg?alt=media&token=baddd432-51a5-4143-89bb-bb5789a7a99e",
+          "title" : "Bears 2"
+        }, {
+          "id" : 3,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/gallery%2Fbears%2F15665160302_f87492c246_k.jpg?alt=media&token=78a84b23-7cdf-43ea-ab15-aed57309be2a",
+          "title" : "Bears 3"
+        }, {
+          "id" : 4,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/gallery%2Fbears%2F3946668599_90958b634c_b.jpg?alt=media&token=2fc04519-cf9d-4972-89a3-e3e868239d22",
+          "title" : "Bears 4"
+        }, {
+          "id" : 5,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/gallery%2Fbears%2F5396353993_d8bcf19d5e_b.jpg?alt=media&token=389323d5-fbaa-485c-960d-41a6026d33c2",
+          "title" : "Bears 5"
+        }, {
+          "id" : 6,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/gallery%2Fbears%2F6346303116_7f3d463a68_b.jpg?alt=media&token=6cace9f8-4e0f-446e-b442-554aab7dbc53",
+          "title" : "Bears 6"
+        }, {
+          "id" : 7,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/gallery%2Fbears%2F8568153824_ae2b3d3a02_k.jpg?alt=media&token=638984e0-4fbb-4bbf-a95b-cb7314737a52",
+          "title" : "Bears 7"
+        }, {
+          "id" : 8,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/gallery%2Fbears%2F8797595259_e99bf75d2e_k.jpg?alt=media&token=b978d292-cc86-4971-a895-e4984ad1dfbf",
+          "title" : "Bears 8"
+        } ],
+        "title" : "Bears"
+      } ],
+      "toolBarTitle" : "CATEGORY 1 (ANIMALS)"
+    },
+    "layout3" : {
+      "items" : [ {
+        "favorite" : false,
+        "id" : 1,
+        "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/gallery%2Fviolins%2F147587554_205e3ed653_o.jpg?alt=media&token=39f252c1-fa2f-4b47-9ff5-2b386ed13d6e",
+        "items" : [ {
+          "id" : 1,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/gallery%2Fviolins%2F147587554_205e3ed653_o.jpg?alt=media&token=39f252c1-fa2f-4b47-9ff5-2b386ed13d6e",
+          "title" : "Violin 1"
+        }, {
+          "id" : 2,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/gallery%2Fviolins%2F2322113757_808c904f04_o.jpg?alt=media&token=cbaad703-d43f-48fe-826e-da52f40f1058",
+          "title" : "Violin 2"
+        }, {
+          "id" : 3,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/gallery%2Fviolins%2F2323048092_b6c70654ef_o.jpg?alt=media&token=cb18561d-78a1-48a3-bc70-b077bea7a9d4",
+          "title" : "Violin 3"
+        }, {
+          "id" : 4,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/gallery%2Fviolins%2F2348623142_af7802400f_b.jpg?alt=media&token=8db4caa5-1466-43e4-961f-7e3ac4aa2661",
+          "title" : "Violin 4"
+        }, {
+          "id" : 5,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/gallery%2Fviolins%2F459221457_09e40e82a8_b.jpg?alt=media&token=f9413f70-eb92-4e1f-b9f8-633d804737e2",
+          "title" : "Violin 5"
+        }, {
+          "id" : 6,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/gallery%2Fviolins%2F5950552903_7dbea63895_b.jpg?alt=media&token=9c2dd1b5-f028-4aee-8e30-70c35376c373",
+          "title" : "Violin 6"
+        } ],
+        "title" : "Violins"
+      }, {
+        "favorite" : true,
+        "id" : 2,
+        "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/gallery%2Fdrums%2F14258762970_33f3a049ed_b.jpg?alt=media&token=98859a09-b4c5-4bbe-ae97-27012e6a5eb4",
+        "items" : [ {
+          "id" : 1,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/gallery%2Fdrums%2F14258762970_33f3a049ed_b.jpg?alt=media&token=98859a09-b4c5-4bbe-ae97-27012e6a5eb4",
+          "title" : "Drum 1"
+        }, {
+          "id" : 2,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/gallery%2Fdrums%2F2419154841_a4c2015605_b.jpg?alt=media&token=6d966929-7f24-4dba-b156-e12b058daf34",
+          "title" : "Drum 2"
+        }, {
+          "id" : 3,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/gallery%2Fdrums%2F6500936951_bf8d21a4b7_b.jpg?alt=media&token=08f5b423-932c-4407-8d64-8cbd2bf0872b",
+          "title" : "Drum 3"
+        }, {
+          "id" : 4,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/gallery%2Fdrums%2F7587609934_f90d316fa0_b.jpg?alt=media&token=369cd552-23e0-491b-b085-026bfd6d7136",
+          "title" : "Drum 4"
+        }, {
+          "id" : 5,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/gallery%2Fdrums%2F7672718592_ca4ccf7315_b.jpg?alt=media&token=dae8c33e-5d54-40a4-919d-1b111453623e",
+          "title" : "Drum 5"
+        }, {
+          "id" : 6,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/gallery%2Fdrums%2F8229110151_3c963f6a8d_k.jpg?alt=media&token=3a05fbb9-0bd8-4751-a34b-5fb9abd46d79",
+          "title" : "Drum 6"
+        } ],
+        "title" : "Drums"
+      }, {
+        "favorite" : true,
+        "id" : 3,
+        "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/gallery%2Fsaxophones%2F3022692180_fd02682a44_b.jpg?alt=media&token=40f6f8c1-3568-440e-95fc-c2c1767caef1",
+        "items" : [ {
+          "id" : 1,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/gallery%2Fsaxophones%2F3022692180_fd02682a44_b.jpg?alt=media&token=40f6f8c1-3568-440e-95fc-c2c1767caef1",
+          "title" : "Saxophones 1"
+        }, {
+          "id" : 2,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/gallery%2Fsaxophones%2F4268421378_e2d3ecdf1b_o.jpg?alt=media&token=a80c2a57-bbcc-4926-9520-38dbd9561752",
+          "title" : "Saxophones 2"
+        }, {
+          "id" : 3,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/gallery%2Fsaxophones%2F4586115189_d4886a2118_b.jpg?alt=media&token=c1962574-9843-43f5-9a9c-85778bf127f4",
+          "title" : "Saxophones 3"
+        }, {
+          "id" : 4,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/gallery%2Fsaxophones%2F5823606898_77db8827b1_b.jpg?alt=media&token=98067179-0684-4684-a74e-0b9117b4c5b4",
+          "title" : "Saxophones 4"
+        }, {
+          "id" : 5,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/gallery%2Fsaxophones%2F7807389560_57b1d5b5f8_k.jpg?alt=media&token=4cafcbc4-5794-4126-9463-ccaca0c3f801",
+          "title" : "Saxophones 5"
+        }, {
+          "id" : 6,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/gallery%2Fsaxophones%2F870265218_716ebe2cb8_o.jpg?alt=media&token=ab2e82c7-0fcf-4420-b489-f7378a02e548",
+          "title" : "Saxophones 6"
+        } ],
+        "title" : "Saxophones"
+      }, {
+        "favorite" : false,
+        "id" : 4,
+        "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/gallery%2Ftrumpets%2F14163752896_453a37b84a_h.jpg?alt=media&token=2893f688-5d1f-4b38-8a32-b772ad77cd27",
+        "items" : [ {
+          "id" : 1,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/gallery%2Ftrumpets%2F14163752896_453a37b84a_h.jpg?alt=media&token=2893f688-5d1f-4b38-8a32-b772ad77cd27",
+          "title" : "Trumpet 1"
+        }, {
+          "id" : 2,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/gallery%2Ftrumpets%2F2531134817_ba97791524_b.jpg?alt=media&token=a573bfb4-be57-41c7-942f-97f1024045c7",
+          "title" : "Trumpet 2"
+        }, {
+          "id" : 3,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/gallery%2Ftrumpets%2F4867822712_1b1d3da2cd_b.jpg?alt=media&token=3b989eca-491e-4e4a-a150-1fc8552cde06",
+          "title" : "Trumpet 3"
+        }, {
+          "id" : 4,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/gallery%2Ftrumpets%2F4949712803_7fc832d2cc_b.jpg?alt=media&token=ef77f209-6124-4342-96bd-1a790f507aa4",
+          "title" : "Trumpet 4"
+        }, {
+          "id" : 5,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/gallery%2Ftrumpets%2F6186270505_cc834a94c6_o.jpg?alt=media&token=491d77c1-3d02-41b2-b838-d2db22565738",
+          "title" : "Trumpet 5"
+        }, {
+          "id" : 6,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/gallery%2Ftrumpets%2F7865792422_ef00cb7840_k.jpg?alt=media&token=288aeee8-3db1-4279-b7c6-8f27b039dcd4",
+          "title" : "Trumpet 6"
+        }, {
+          "id" : 7,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/gallery%2Ftrumpets%2F8044715752_9855063570_k.jpg?alt=media&token=af72d8a5-50bb-4335-8d1e-1a3929a27647",
+          "title" : "Trumpet 7"
+        } ],
+        "title" : "Trumpets"
+      }, {
+        "favorite" : false,
+        "id" : 5,
+        "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/gallery%2Fpianos%2F14287113341_fe14885b70_b.jpg?alt=media&token=eb4d98c2-cdef-493d-869d-2c5ce6a7028e",
+        "items" : [ {
+          "id" : 1,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/gallery%2Fpianos%2F14287113341_fe14885b70_b.jpg?alt=media&token=eb4d98c2-cdef-493d-869d-2c5ce6a7028e",
+          "title" : "Piano 1"
+        }, {
+          "id" : 2,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/gallery%2Fpianos%2F5052063297_61b6386db5_b.jpg?alt=media&token=6009df60-0215-4a3f-bbc5-963d4a51d1af",
+          "title" : "Piano 2"
+        }, {
+          "id" : 3,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/gallery%2Fpianos%2F5200112333_502355c045_b.jpg?alt=media&token=72010f93-5f9f-4b7c-8289-6bb6695f33d1",
+          "title" : "Piano 3"
+        }, {
+          "id" : 4,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/gallery%2Fpianos%2F5637747696_42cba72967_b.jpg?alt=media&token=51283a70-c89c-4b3f-9c00-c4a6b551aa26",
+          "title" : "Piano 4"
+        }, {
+          "id" : 5,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/gallery%2Fpianos%2F7310209818_537dd46419_b.jpg?alt=media&token=c10823d9-fa73-4944-9470-c8a55ce4db96",
+          "title" : "Piano 5"
+        }, {
+          "id" : 6,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/gallery%2Fpianos%2F8247668743_36fcf1f4bb_b.jpg?alt=media&token=9c36854f-81bc-45ab-945d-325722bd2956",
+          "title" : "Piano 6"
+        } ],
+        "title" : "Pianos"
+      }, {
+        "favorite" : false,
+        "id" : 6,
+        "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/gallery%2Faccordions%2F153706234_c473e8eabd_o.jpg?alt=media&token=edf6c245-c8ce-4223-93cd-c1a278548602",
+        "items" : [ {
+          "id" : 1,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/gallery%2Faccordions%2F153706234_c473e8eabd_o.jpg?alt=media&token=edf6c245-c8ce-4223-93cd-c1a278548602",
+          "title" : "Accordion 1"
+        }, {
+          "id" : 2,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/gallery%2Faccordions%2F2681657661_177a5edbc5_b.jpg?alt=media&token=dbf276cb-c989-408b-ae23-b009a5749c2c",
+          "title" : "Accordion 2"
+        }, {
+          "id" : 3,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/gallery%2Faccordions%2F3369363243_94fb76891d_b.jpg?alt=media&token=6a3b2492-de14-4df4-9ee5-23396af8a06d",
+          "title" : "Accordion 3"
+        }, {
+          "id" : 4,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/gallery%2Faccordions%2F5316360932_719617fa1d_b.jpg?alt=media&token=e77ee46c-6908-4538-bd0b-7a53fc07d8b1",
+          "title" : "Accordion 4"
+        }, {
+          "id" : 5,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/gallery%2Faccordions%2F6151326630_349b892d5a_b.jpg?alt=media&token=8d00185f-feac-4953-a6bb-d8cdd013ca6b",
+          "title" : "Accordion 5"
+        }, {
+          "id" : 6,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/gallery%2Faccordions%2F7607076588_593e509440_h.jpg?alt=media&token=62fafe99-4ce4-4bed-b8ea-68b1dd6ad00b",
+          "title" : "Accordion 6"
+        } ],
+        "title" : "Accordions"
+      }, {
+        "favorite" : false,
+        "id" : 7,
+        "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/gallery%2Faccordions%2F153706234_c473e8eabd_o.jpg?alt=media&token=edf6c245-c8ce-4223-93cd-c1a278548602",
+        "items" : [ {
+          "id" : 1,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/gallery%2Faccordions%2F153706234_c473e8eabd_o.jpg?alt=media&token=edf6c245-c8ce-4223-93cd-c1a278548602",
+          "title" : "Accordion 1"
+        }, {
+          "id" : 2,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/gallery%2Faccordions%2F2681657661_177a5edbc5_b.jpg?alt=media&token=dbf276cb-c989-408b-ae23-b009a5749c2c",
+          "title" : "Accordion 2"
+        }, {
+          "id" : 3,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/gallery%2Faccordions%2F3369363243_94fb76891d_b.jpg?alt=media&token=6a3b2492-de14-4df4-9ee5-23396af8a06d",
+          "title" : "Accordion 3"
+        }, {
+          "id" : 4,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/gallery%2Faccordions%2F5316360932_719617fa1d_b.jpg?alt=media&token=e77ee46c-6908-4538-bd0b-7a53fc07d8b1",
+          "title" : "Accordion 4"
+        }, {
+          "id" : 5,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/gallery%2Faccordions%2F6151326630_349b892d5a_b.jpg?alt=media&token=8d00185f-feac-4953-a6bb-d8cdd013ca6b",
+          "title" : "Accordion 5"
+        }, {
+          "id" : 6,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/gallery%2Faccordions%2F7607076588_593e509440_h.jpg?alt=media&token=62fafe99-4ce4-4bed-b8ea-68b1dd6ad00b",
+          "title" : "Accordion 6"
+        } ],
+        "title" : "Accordions"
+      }, {
+        "favorite" : false,
+        "id" : 8,
+        "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/gallery%2Faccordions%2F153706234_c473e8eabd_o.jpg?alt=media&token=edf6c245-c8ce-4223-93cd-c1a278548602",
+        "items" : [ {
+          "id" : 1,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/gallery%2Faccordions%2F153706234_c473e8eabd_o.jpg?alt=media&token=edf6c245-c8ce-4223-93cd-c1a278548602",
+          "title" : "Accordion 1"
+        }, {
+          "id" : 2,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/gallery%2Faccordions%2F2681657661_177a5edbc5_b.jpg?alt=media&token=dbf276cb-c989-408b-ae23-b009a5749c2c",
+          "title" : "Accordion 2"
+        }, {
+          "id" : 3,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/gallery%2Faccordions%2F3369363243_94fb76891d_b.jpg?alt=media&token=6a3b2492-de14-4df4-9ee5-23396af8a06d",
+          "title" : "Accordion 3"
+        }, {
+          "id" : 4,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/gallery%2Faccordions%2F5316360932_719617fa1d_b.jpg?alt=media&token=e77ee46c-6908-4538-bd0b-7a53fc07d8b1",
+          "title" : "Accordion 4"
+        }, {
+          "id" : 5,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/gallery%2Faccordions%2F6151326630_349b892d5a_b.jpg?alt=media&token=8d00185f-feac-4953-a6bb-d8cdd013ca6b",
+          "title" : "Accordion 5"
+        }, {
+          "id" : 6,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/gallery%2Faccordions%2F7607076588_593e509440_h.jpg?alt=media&token=62fafe99-4ce4-4bed-b8ea-68b1dd6ad00b",
+          "title" : "Accordion 6"
+        } ],
+        "title" : "Accordions"
+      } ],
+      "toolBarTitle" : "CATEGORY 2 (MUSIC)"
+    },
+    "subcategory" : {
+      "items" : [ {
+        "id" : 1,
+        "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/gallery%2Fdogs%2F14250733433_271362f4ff_h.jpg?alt=media&token=9b6fbcd3-e49f-41cf-87a5-8085dbc0bf6f",
+        "title" : "Dog 1"
+      }, {
+        "id" : 2,
+        "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/gallery%2Fdogs%2F174085592_c0b7e5076f_o.jpg?alt=media&token=4b6e144a-53f7-4f8c-9e9c-b2b09d026356",
+        "title" : "Dog 2"
+      }, {
+        "id" : 3,
+        "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/gallery%2Fdogs%2F174097822_6c0aae32e1_o.jpg?alt=media&token=7d602a72-e8b2-417a-8612-6982b1b8353c",
+        "title" : "Dog 3"
+      }, {
+        "id" : 4,
+        "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/gallery%2Fdogs%2F4733823624_a758c8e8e9_b.jpg?alt=media&token=d408c60a-982b-486a-9404-d49693a1acfa",
+        "title" : "Dog 4"
+      }, {
+        "id" : 5,
+        "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/gallery%2Fdogs%2F4939588185_4dc4fa8cca_b.jpg?alt=media&token=415c2446-6220-414f-90a2-57550010f96f",
+        "title" : "Dog 5"
+      }, {
+        "id" : 6,
+        "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/gallery%2Fdogs%2F6698150783_161b18182e_b.jpg?alt=media&token=bee192c4-d4e1-4ec0-9624-58c46321f0a9",
+        "title" : "Dog 6"
+      }, {
+        "id" : 7,
+        "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/gallery%2Fdogs%2F6787786882_4e74d00628_b.jpg?alt=media&token=cae7bc9b-e297-455b-a6a4-1b0ab93fd13d",
+        "title" : "Dog 7"
+      }, {
+        "id" : 8,
+        "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/gallery%2Fdogs%2F8206632393_36622366c6_k.jpg?alt=media&token=1f1ad78b-5fa7-44e5-aa47-143e7c58796f",
+        "title" : "Dog 8"
+      } ],
+      "title" : "SUBCATEGORY 1 (DOG)"
+    }
+  },
+  "listView" : {
+    "appearanceAnimations" : {
+      "layout1" : {
+        "items" : [ {
+          "favorite" : true,
+          "id" : 1,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/avatar%2F0.jpg?alt=media&token=8183f0fa-e8ac-4699-aefb-af8871b29aee",
+          "title" : "Isaac Raid"
+        }, {
+          "favorite" : false,
+          "id" : 2,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/avatar%2F1.jpg?alt=media&token=5974f480-acdd-4000-9d9d-8a6f0ee00859",
+          "title" : "Jason Graham"
+        }, {
+          "favorite" : true,
+          "id" : 3,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/avatar%2F2.jpg?alt=media&token=a43152ce-3ebe-430b-87c1-82bd2a160af1",
+          "title" : "Abigail Ross"
+        }, {
+          "favorite" : false,
+          "id" : 4,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/avatar%2F4.jpg?alt=media&token=ed4d5233-4d6d-4127-a5bd-638043587f7b",
+          "title" : "Justin Rutherford"
+        }, {
+          "favorite" : false,
+          "id" : 5,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/avatar%2F4.jpg?alt=media&token=ed4d5233-4d6d-4127-a5bd-638043587f7b",
+          "title" : "Nicholas Henderson"
+        }, {
+          "favorite" : true,
+          "id" : 6,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/avatar%2F5.jpg?alt=media&token=34d4cd54-66ca-41e5-ab31-8b52514e68a9",
+          "title" : "Elizabeth Mackenzie"
+        }, {
+          "favorite" : false,
+          "id" : 7,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/avatar%2F6.jpg?alt=media&token=89322f3e-d0d9-4d3d-bb93-67d4746dbb86",
+          "title" : "Melanie Ferguson"
+        }, {
+          "favorite" : true,
+          "id" : 8,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/avatar%2F7.jpg?alt=media&token=f95ccee3-d059-4e83-ac0c-498f7b27f6ac",
+          "title" : "Fiona Kelly"
+        }, {
+          "favorite" : true,
+          "id" : 9,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/avatar%2F8.jpg?alt=media&token=1725c145-de43-431b-ab85-914606676d37",
+          "title" : "Nicholas King"
+        }, {
+          "favorite" : true,
+          "id" : 10,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/avatar%2F9.jpg?alt=media&token=1bc9608d-8590-40b8-b24b-fc5a54e82cf1",
+          "title" : "Victoria Mitchell"
+        }, {
+          "favorite" : false,
+          "id" : 11,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/avatar%2F10.jpg?alt=media&token=c4394ca7-9d1d-46aa-b3cd-16ca32c23d52",
+          "title" : "Sophie Lyman"
+        }, {
+          "favorite" : false,
+          "id" : 12,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/avatar%2F11.jpg?alt=media&token=901203ed-b0f1-4ec4-9c17-66acec73b3eb",
+          "title" : "Carl Ince"
+        }, {
+          "favorite" : false,
+          "id" : 13,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/avatar%2F12.jpg?alt=media&token=09bc8e03-7ea5-49e9-a661-681beffcbb9c",
+          "title" : "Michelle Slater"
+        }, {
+          "favorite" : false,
+          "id" : 14,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/avatar%2F13.jpg?alt=media&token=d716d65e-5622-4114-9123-7e7f66a6d65d",
+          "title" : "Ryan Mathis"
+        }, {
+          "favorite" : false,
+          "id" : 15,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/avatar%2F14.jpg?alt=media&token=65faccfa-e13e-458a-b1a4-19628c5f4c40",
+          "title" : "Julia Grant"
+        }, {
+          "favorite" : false,
+          "id" : 16,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/avatar%2F15.jpg?alt=media&token=16b8d9d6-8f1e-4e20-9137-22e5d60bf73d",
+          "title" : "Hannah Martin"
+        } ]
+      },
+      "layout2" : {
+        "items" : [ {
+          "favorite" : true,
+          "id" : 1,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/avatar%2F0.jpg?alt=media&token=8183f0fa-e8ac-4699-aefb-af8871b29aee",
+          "title" : "Isaac Raid"
+        }, {
+          "favorite" : false,
+          "id" : 2,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/avatar%2F1.jpg?alt=media&token=5974f480-acdd-4000-9d9d-8a6f0ee00859",
+          "title" : "Jason Graham"
+        }, {
+          "favorite" : true,
+          "id" : 3,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/avatar%2F2.jpg?alt=media&token=a43152ce-3ebe-430b-87c1-82bd2a160af1",
+          "title" : "Abigail Ross"
+        }, {
+          "favorite" : false,
+          "id" : 4,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/avatar%2F4.jpg?alt=media&token=ed4d5233-4d6d-4127-a5bd-638043587f7b",
+          "title" : "Justin Rutherford"
+        }, {
+          "favorite" : false,
+          "id" : 5,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/avatar%2F4.jpg?alt=media&token=ed4d5233-4d6d-4127-a5bd-638043587f7b",
+          "title" : "Nicholas Henderson"
+        }, {
+          "favorite" : true,
+          "id" : 6,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/avatar%2F5.jpg?alt=media&token=34d4cd54-66ca-41e5-ab31-8b52514e68a9",
+          "title" : "Elizabeth Mackenzie"
+        }, {
+          "favorite" : false,
+          "id" : 7,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/avatar%2F6.jpg?alt=media&token=89322f3e-d0d9-4d3d-bb93-67d4746dbb86",
+          "title" : "Melanie Ferguson"
+        }, {
+          "favorite" : true,
+          "id" : 8,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/avatar%2F7.jpg?alt=media&token=f95ccee3-d059-4e83-ac0c-498f7b27f6ac",
+          "title" : "Fiona Kelly"
+        }, {
+          "favorite" : true,
+          "id" : 9,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/avatar%2F8.jpg?alt=media&token=1725c145-de43-431b-ab85-914606676d37",
+          "title" : "Nicholas King"
+        }, {
+          "favorite" : true,
+          "id" : 10,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/avatar%2F9.jpg?alt=media&token=1bc9608d-8590-40b8-b24b-fc5a54e82cf1",
+          "title" : "Victoria Mitchell"
+        }, {
+          "favorite" : false,
+          "id" : 11,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/avatar%2F10.jpg?alt=media&token=c4394ca7-9d1d-46aa-b3cd-16ca32c23d52",
+          "title" : "Sophie Lyman"
+        }, {
+          "favorite" : false,
+          "id" : 12,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/avatar%2F11.jpg?alt=media&token=901203ed-b0f1-4ec4-9c17-66acec73b3eb",
+          "title" : "Carl Ince"
+        }, {
+          "favorite" : false,
+          "id" : 13,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/avatar%2F12.jpg?alt=media&token=09bc8e03-7ea5-49e9-a661-681beffcbb9c",
+          "title" : "Michelle Slater"
+        }, {
+          "favorite" : false,
+          "id" : 14,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/avatar%2F13.jpg?alt=media&token=d716d65e-5622-4114-9123-7e7f66a6d65d",
+          "title" : "Ryan Mathis"
+        }, {
+          "favorite" : false,
+          "id" : 15,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/avatar%2F14.jpg?alt=media&token=65faccfa-e13e-458a-b1a4-19628c5f4c40",
+          "title" : "Julia Grant"
+        }, {
+          "favorite" : false,
+          "id" : 16,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/avatar%2F15.jpg?alt=media&token=16b8d9d6-8f1e-4e20-9137-22e5d60bf73d",
+          "title" : "Hannah Martin"
+        } ]
+      },
+      "layout3" : {
+        "items" : [ {
+          "favorite" : true,
+          "id" : 1,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/avatar%2F0.jpg?alt=media&token=8183f0fa-e8ac-4699-aefb-af8871b29aee",
+          "title" : "Isaac Raid"
+        }, {
+          "favorite" : false,
+          "id" : 2,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/avatar%2F1.jpg?alt=media&token=5974f480-acdd-4000-9d9d-8a6f0ee00859",
+          "title" : "Jason Graham"
+        }, {
+          "favorite" : true,
+          "id" : 3,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/avatar%2F2.jpg?alt=media&token=a43152ce-3ebe-430b-87c1-82bd2a160af1",
+          "title" : "Abigail Ross"
+        }, {
+          "favorite" : false,
+          "id" : 4,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/avatar%2F4.jpg?alt=media&token=ed4d5233-4d6d-4127-a5bd-638043587f7b",
+          "title" : "Justin Rutherford"
+        }, {
+          "favorite" : false,
+          "id" : 5,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/avatar%2F4.jpg?alt=media&token=ed4d5233-4d6d-4127-a5bd-638043587f7b",
+          "title" : "Nicholas Henderson"
+        }, {
+          "favorite" : true,
+          "id" : 6,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/avatar%2F5.jpg?alt=media&token=34d4cd54-66ca-41e5-ab31-8b52514e68a9",
+          "title" : "Elizabeth Mackenzie"
+        }, {
+          "favorite" : false,
+          "id" : 7,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/avatar%2F6.jpg?alt=media&token=89322f3e-d0d9-4d3d-bb93-67d4746dbb86",
+          "title" : "Melanie Ferguson"
+        }, {
+          "favorite" : true,
+          "id" : 8,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/avatar%2F7.jpg?alt=media&token=f95ccee3-d059-4e83-ac0c-498f7b27f6ac",
+          "title" : "Fiona Kelly"
+        }, {
+          "favorite" : true,
+          "id" : 9,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/avatar%2F8.jpg?alt=media&token=1725c145-de43-431b-ab85-914606676d37",
+          "title" : "Nicholas King"
+        }, {
+          "favorite" : true,
+          "id" : 10,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/avatar%2F9.jpg?alt=media&token=1bc9608d-8590-40b8-b24b-fc5a54e82cf1",
+          "title" : "Victoria Mitchell"
+        }, {
+          "favorite" : false,
+          "id" : 11,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/avatar%2F10.jpg?alt=media&token=c4394ca7-9d1d-46aa-b3cd-16ca32c23d52",
+          "title" : "Sophie Lyman"
+        }, {
+          "favorite" : false,
+          "id" : 12,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/avatar%2F11.jpg?alt=media&token=901203ed-b0f1-4ec4-9c17-66acec73b3eb",
+          "title" : "Carl Ince"
+        }, {
+          "favorite" : false,
+          "id" : 13,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/avatar%2F12.jpg?alt=media&token=09bc8e03-7ea5-49e9-a661-681beffcbb9c",
+          "title" : "Michelle Slater"
+        }, {
+          "favorite" : false,
+          "id" : 14,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/avatar%2F13.jpg?alt=media&token=d716d65e-5622-4114-9123-7e7f66a6d65d",
+          "title" : "Ryan Mathis"
+        }, {
+          "favorite" : false,
+          "id" : 15,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/avatar%2F14.jpg?alt=media&token=65faccfa-e13e-458a-b1a4-19628c5f4c40",
+          "title" : "Julia Grant"
+        }, {
+          "favorite" : false,
+          "id" : 16,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/avatar%2F15.jpg?alt=media&token=16b8d9d6-8f1e-4e20-9137-22e5d60bf73d",
+          "title" : "Hannah Martin"
+        } ]
+      },
+      "layout4" : {
+        "items" : [ {
+          "favorite" : true,
+          "id" : 1,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/avatar%2F0.jpg?alt=media&token=8183f0fa-e8ac-4699-aefb-af8871b29aee",
+          "title" : "Isaac Raid"
+        }, {
+          "favorite" : false,
+          "id" : 2,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/avatar%2F1.jpg?alt=media&token=5974f480-acdd-4000-9d9d-8a6f0ee00859",
+          "title" : "Jason Graham"
+        }, {
+          "favorite" : true,
+          "id" : 3,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/avatar%2F2.jpg?alt=media&token=a43152ce-3ebe-430b-87c1-82bd2a160af1",
+          "title" : "Abigail Ross"
+        }, {
+          "favorite" : false,
+          "id" : 4,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/avatar%2F4.jpg?alt=media&token=ed4d5233-4d6d-4127-a5bd-638043587f7b",
+          "title" : "Justin Rutherford"
+        }, {
+          "favorite" : false,
+          "id" : 5,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/avatar%2F4.jpg?alt=media&token=ed4d5233-4d6d-4127-a5bd-638043587f7b",
+          "title" : "Nicholas Henderson"
+        }, {
+          "favorite" : true,
+          "id" : 6,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/avatar%2F5.jpg?alt=media&token=34d4cd54-66ca-41e5-ab31-8b52514e68a9",
+          "title" : "Elizabeth Mackenzie"
+        }, {
+          "favorite" : false,
+          "id" : 7,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/avatar%2F6.jpg?alt=media&token=89322f3e-d0d9-4d3d-bb93-67d4746dbb86",
+          "title" : "Melanie Ferguson"
+        }, {
+          "favorite" : true,
+          "id" : 8,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/avatar%2F7.jpg?alt=media&token=f95ccee3-d059-4e83-ac0c-498f7b27f6ac",
+          "title" : "Fiona Kelly"
+        }, {
+          "favorite" : true,
+          "id" : 9,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/avatar%2F8.jpg?alt=media&token=1725c145-de43-431b-ab85-914606676d37",
+          "title" : "Nicholas King"
+        }, {
+          "favorite" : true,
+          "id" : 10,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/avatar%2F9.jpg?alt=media&token=1bc9608d-8590-40b8-b24b-fc5a54e82cf1",
+          "title" : "Victoria Mitchell"
+        }, {
+          "favorite" : false,
+          "id" : 11,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/avatar%2F10.jpg?alt=media&token=c4394ca7-9d1d-46aa-b3cd-16ca32c23d52",
+          "title" : "Sophie Lyman"
+        }, {
+          "favorite" : false,
+          "id" : 12,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/avatar%2F11.jpg?alt=media&token=901203ed-b0f1-4ec4-9c17-66acec73b3eb",
+          "title" : "Carl Ince"
+        }, {
+          "favorite" : false,
+          "id" : 13,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/avatar%2F12.jpg?alt=media&token=09bc8e03-7ea5-49e9-a661-681beffcbb9c",
+          "title" : "Michelle Slater"
+        }, {
+          "favorite" : false,
+          "id" : 14,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/avatar%2F13.jpg?alt=media&token=d716d65e-5622-4114-9123-7e7f66a6d65d",
+          "title" : "Ryan Mathis"
+        }, {
+          "favorite" : false,
+          "id" : 15,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/avatar%2F14.jpg?alt=media&token=65faccfa-e13e-458a-b1a4-19628c5f4c40",
+          "title" : "Julia Grant"
+        }, {
+          "favorite" : false,
+          "id" : 16,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/avatar%2F15.jpg?alt=media&token=16b8d9d6-8f1e-4e20-9137-22e5d60bf73d",
+          "title" : "Hannah Martin"
+        } ]
+      },
+      "layout5" : {
+        "items" : [ {
+          "favorite" : true,
+          "id" : 1,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/avatar%2F0.jpg?alt=media&token=8183f0fa-e8ac-4699-aefb-af8871b29aee",
+          "title" : "Isaac Raid"
+        }, {
+          "favorite" : false,
+          "id" : 2,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/avatar%2F1.jpg?alt=media&token=5974f480-acdd-4000-9d9d-8a6f0ee00859",
+          "title" : "Jason Graham"
+        }, {
+          "favorite" : true,
+          "id" : 3,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/avatar%2F2.jpg?alt=media&token=a43152ce-3ebe-430b-87c1-82bd2a160af1",
+          "title" : "Abigail Ross"
+        }, {
+          "favorite" : false,
+          "id" : 4,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/avatar%2F4.jpg?alt=media&token=ed4d5233-4d6d-4127-a5bd-638043587f7b",
+          "title" : "Justin Rutherford"
+        }, {
+          "favorite" : false,
+          "id" : 5,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/avatar%2F4.jpg?alt=media&token=ed4d5233-4d6d-4127-a5bd-638043587f7b",
+          "title" : "Nicholas Henderson"
+        }, {
+          "favorite" : true,
+          "id" : 6,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/avatar%2F5.jpg?alt=media&token=34d4cd54-66ca-41e5-ab31-8b52514e68a9",
+          "title" : "Elizabeth Mackenzie"
+        }, {
+          "favorite" : false,
+          "id" : 7,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/avatar%2F6.jpg?alt=media&token=89322f3e-d0d9-4d3d-bb93-67d4746dbb86",
+          "title" : "Melanie Ferguson"
+        }, {
+          "favorite" : true,
+          "id" : 8,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/avatar%2F7.jpg?alt=media&token=f95ccee3-d059-4e83-ac0c-498f7b27f6ac",
+          "title" : "Fiona Kelly"
+        }, {
+          "favorite" : true,
+          "id" : 9,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/avatar%2F8.jpg?alt=media&token=1725c145-de43-431b-ab85-914606676d37",
+          "title" : "Nicholas King"
+        }, {
+          "favorite" : true,
+          "id" : 10,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/avatar%2F9.jpg?alt=media&token=1bc9608d-8590-40b8-b24b-fc5a54e82cf1",
+          "title" : "Victoria Mitchell"
+        }, {
+          "favorite" : false,
+          "id" : 11,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/avatar%2F10.jpg?alt=media&token=c4394ca7-9d1d-46aa-b3cd-16ca32c23d52",
+          "title" : "Sophie Lyman"
+        }, {
+          "favorite" : false,
+          "id" : 12,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/avatar%2F11.jpg?alt=media&token=901203ed-b0f1-4ec4-9c17-66acec73b3eb",
+          "title" : "Carl Ince"
+        }, {
+          "favorite" : false,
+          "id" : 13,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/avatar%2F12.jpg?alt=media&token=09bc8e03-7ea5-49e9-a661-681beffcbb9c",
+          "title" : "Michelle Slater"
+        }, {
+          "favorite" : false,
+          "id" : 14,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/avatar%2F13.jpg?alt=media&token=d716d65e-5622-4114-9123-7e7f66a6d65d",
+          "title" : "Ryan Mathis"
+        }, {
+          "favorite" : false,
+          "id" : 15,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/avatar%2F14.jpg?alt=media&token=65faccfa-e13e-458a-b1a4-19628c5f4c40",
+          "title" : "Julia Grant"
+        }, {
+          "favorite" : false,
+          "id" : 16,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/avatar%2F15.jpg?alt=media&token=16b8d9d6-8f1e-4e20-9137-22e5d60bf73d",
+          "title" : "Hannah Martin"
+        } ]
+      }
+    },
+    "dragAndDrop" : {
+      "layout1" : {
+        "description" : "Author: Username",
+        "duration" : "35:72",
+        "icon" : "icon-check",
+        "items" : [ {
+          "author" : "Author: UserName",
+          "id" : 1,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/avatar%2F0.jpg?alt=media&token=8183f0fa-e8ac-4699-aefb-af8871b29aee",
+          "leftIcon" : "icon-play-circle",
+          "rightIcon" : "icon-unfold-more",
+          "title" : "SongName"
+        }, {
+          "author" : "Author: UserName",
+          "id" : 2,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/avatar%2F1.jpg?alt=media&token=5974f480-acdd-4000-9d9d-8a6f0ee00859",
+          "leftIcon" : "icon-play-circle",
+          "rightIcon" : "icon-unfold-more",
+          "title" : "SongName"
+        }, {
+          "author" : "Author: UserName",
+          "id" : 3,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/avatar%2F2.jpg?alt=media&token=a43152ce-3ebe-430b-87c1-82bd2a160af1",
+          "leftIcon" : "icon-play-circle",
+          "rightIcon" : "icon-unfold-more",
+          "title" : "SongName"
+        }, {
+          "author" : "Author: UserName",
+          "id" : 4,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/avatar%2F3.jpg?alt=media&token=2277f6d1-7f5d-49c4-b329-6be869c794e7",
+          "leftIcon" : "icon-play-circle",
+          "rightIcon" : "icon-unfold-more",
+          "title" : "SongName"
+        }, {
+          "author" : "Author: UserName",
+          "id" : 5,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/avatar%2F4.jpg?alt=media&token=ed4d5233-4d6d-4127-a5bd-638043587f7b",
+          "leftIcon" : "icon-play-circle",
+          "rightIcon" : "icon-unfold-more",
+          "title" : "SongName"
+        }, {
+          "author" : "Author: UserName",
+          "id" : 6,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/avatar%2F5.jpg?alt=media&token=34d4cd54-66ca-41e5-ab31-8b52514e68a9",
+          "leftIcon" : "icon-play-circle",
+          "rightIcon" : "icon-unfold-more",
+          "title" : "SongName"
+        }, {
+          "author" : "Author: UserName",
+          "id" : 7,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/avatar%2F6.jpg?alt=media&token=89322f3e-d0d9-4d3d-bb93-67d4746dbb86",
+          "leftIcon" : "icon-play-circle",
+          "rightIcon" : "icon-unfold-more",
+          "title" : "SongName"
+        }, {
+          "author" : "Author: UserName",
+          "id" : 8,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/avatar%2F0.jpg?alt=media&token=8183f0fa-e8ac-4699-aefb-af8871b29aee",
+          "leftIcon" : "icon-play-circle",
+          "rightIcon" : "icon-unfold-more",
+          "title" : "SongName"
+        }, {
+          "author" : "Author: UserName",
+          "id" : 9,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/avatar%2F1.jpg?alt=media&token=5974f480-acdd-4000-9d9d-8a6f0ee00859",
+          "leftIcon" : "icon-play-circle",
+          "rightIcon" : "icon-unfold-more",
+          "title" : "SongName"
+        }, {
+          "author" : "Author: UserName",
+          "id" : 10,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/avatar%2F2.jpg?alt=media&token=a43152ce-3ebe-430b-87c1-82bd2a160af1",
+          "leftIcon" : "icon-play-circle",
+          "rightIcon" : "icon-unfold-more",
+          "title" : "SongName"
+        }, {
+          "author" : "Author: UserName",
+          "id" : 11,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/avatar%2F3.jpg?alt=media&token=2277f6d1-7f5d-49c4-b329-6be869c794e7",
+          "leftIcon" : "icon-play-circle",
+          "rightIcon" : "icon-unfold-more",
+          "title" : "SongName"
+        }, {
+          "author" : "Author: UserName",
+          "id" : 12,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/avatar%2F4.jpg?alt=media&token=ed4d5233-4d6d-4127-a5bd-638043587f7b",
+          "leftIcon" : "icon-play-circle",
+          "rightIcon" : "icon-unfold-more",
+          "title" : "SongName"
+        }, {
+          "author" : "Author: UserName",
+          "id" : 13,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/avatar%2F5.jpg?alt=media&token=34d4cd54-66ca-41e5-ab31-8b52514e68a9",
+          "leftIcon" : "icon-play-circle",
+          "rightIcon" : "icon-unfold-more",
+          "title" : "SongName"
+        }, {
+          "author" : "Author: UserName",
+          "id" : 14,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/avatar%2F6.jpg?alt=media&token=89322f3e-d0d9-4d3d-bb93-67d4746dbb86",
+          "leftIcon" : "icon-play-circle",
+          "rightIcon" : "icon-unfold-more",
+          "title" : "SongName"
+        } ],
+        "title" : "PlaylistName"
+      },
+      "layout2" : {
+        "buttonText" : "PROCEED",
+        "description" : "Will be shipped: 15.5.2016.",
+        "headerImage" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/background%2F22.jpg?alt=media&token=25b414ee-ee5b-4d9b-97a1-80a9dc7ec2ce",
+        "items" : [ {
+          "id" : 1,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/avatar%2F17.jpg?alt=media&token=8b431740-9f73-4e51-bc1b-a174cdf8997c",
+          "newPrice" : "$35.99",
+          "oldPrice" : "$42.99",
+          "rightIcon" : "icon-unfold-more",
+          "seller" : "Seller Name",
+          "title" : "Black Shirt"
+        }, {
+          "id" : 2,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/avatar%2F18.jpg?alt=media&token=6ec5b1bb-7443-40d8-baad-c6111242b1ec",
+          "newPrice" : "$35.99",
+          "oldPrice" : "$42.99",
+          "rightIcon" : "icon-unfold-more",
+          "seller" : "Seller Name",
+          "title" : "Black Sweater"
+        }, {
+          "id" : 3,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/avatar%2F19.jpg?alt=media&token=eb163598-f976-48b4-bba8-4192a46ca3e3",
+          "newPrice" : "$35.99",
+          "oldPrice" : "$42.99",
+          "rightIcon" : "icon-unfold-more",
+          "seller" : "Seller Name",
+          "title" : "Shirt"
+        }, {
+          "id" : 4,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/avatar%2F20.jpg?alt=media&token=d5d03835-7543-47a2-b302-53a56236a84c",
+          "newPrice" : "$35.99",
+          "oldPrice" : "$42.99",
+          "rightIcon" : "icon-unfold-more",
+          "seller" : "Seller Name",
+          "title" : "White Shirt"
+        }, {
+          "id" : 5,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/avatar%2F21.jpg?alt=media&token=0ec10cd0-3299-4538-8e7f-9567fdb7e1a3",
+          "newPrice" : "$35.99",
+          "oldPrice" : "$42.99",
+          "rightIcon" : "icon-unfold-more",
+          "seller" : "Seller Name",
+          "title" : "White T shirt"
+        }, {
+          "id" : 6,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/avatar%2F22.jpg?alt=media&token=efc0609c-d6c6-4a54-9776-d0b013a94933",
+          "newPrice" : "$35.99",
+          "oldPrice" : "$42.99",
+          "rightIcon" : "icon-unfold-more",
+          "seller" : "Seller Name",
+          "title" : "T shirt"
+        }, {
+          "id" : 7,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/avatar%2F23.jpg?alt=media&token=96ff177f-9efb-495d-9c0f-95b072867746",
+          "newPrice" : "$35.99",
+          "oldPrice" : "$42.99",
+          "rightIcon" : "icon-unfold-more",
+          "seller" : "Seller Name",
+          "title" : "Hoodies"
+        } ],
+        "price" : "$42.99",
+        "title" : "Order No. 1"
+      },
+      "layout3" : {
+        "items" : [ {
+          "description" : "from Las Vegas",
+          "id" : 1,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/avatar%2F0.jpg?alt=media&token=8183f0fa-e8ac-4699-aefb-af8871b29aee",
+          "rightIcon" : "icon-unfold-more",
+          "title" : "Isaac Reid"
+        }, {
+          "description" : "from Las Vegas",
+          "id" : 2,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/avatar%2F1.jpg?alt=media&token=5974f480-acdd-4000-9d9d-8a6f0ee00859",
+          "rightIcon" : "icon-unfold-more",
+          "title" : "Jason Graham"
+        }, {
+          "description" : "from Las Vegas",
+          "id" : 3,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/avatar%2F2.jpg?alt=media&token=a43152ce-3ebe-430b-87c1-82bd2a160af1",
+          "rightIcon" : "icon-unfold-more",
+          "title" : "Abigail Ross"
+        }, {
+          "description" : "from Las Vegas",
+          "id" : 4,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/avatar%2F3.jpg?alt=media&token=2277f6d1-7f5d-49c4-b329-6be869c794e7",
+          "rightIcon" : "icon-unfold-more",
+          "title" : "Justin Rutherford"
+        }, {
+          "description" : "from Las Vegas",
+          "id" : 5,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/avatar%2F4.jpg?alt=media&token=ed4d5233-4d6d-4127-a5bd-638043587f7b",
+          "rightIcon" : "icon-unfold-more",
+          "title" : "Nicholas Henderson"
+        }, {
+          "description" : "from Las Vegas",
+          "id" : 6,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/avatar%2F5.jpg?alt=media&token=34d4cd54-66ca-41e5-ab31-8b52514e68a9",
+          "rightIcon" : "icon-unfold-more",
+          "title" : "Elizabeth Mackenzie"
+        }, {
+          "description" : "from Las Vegas",
+          "id" : 7,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/avatar%2F6.jpg?alt=media&token=89322f3e-d0d9-4d3d-bb93-67d4746dbb86",
+          "rightIcon" : "icon-unfold-more",
+          "title" : "Melanie Ferguson"
+        }, {
+          "description" : "from Las Vegas",
+          "id" : 8,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/avatar%2F7.jpg?alt=media&token=f95ccee3-d059-4e83-ac0c-498f7b27f6ac",
+          "rightIcon" : "icon-unfold-more",
+          "title" : "Fiona Kelly"
+        }, {
+          "description" : "from Las Vegas",
+          "id" : 9,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/avatar%2F8.jpg?alt=media&token=1725c145-de43-431b-ab85-914606676d37",
+          "rightIcon" : "icon-unfold-more",
+          "title" : "Nicholas King"
+        }, {
+          "description" : "from Las Vegas",
+          "id" : 10,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/avatar%2F9.jpg?alt=media&token=1bc9608d-8590-40b8-b24b-fc5a54e82cf1",
+          "rightIcon" : "icon-unfold-more",
+          "title" : "Victoria Mitchell"
+        }, {
+          "description" : "from Las Vegas",
+          "id" : 11,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/avatar%2F10.jpg?alt=media&token=c4394ca7-9d1d-46aa-b3cd-16ca32c23d52",
+          "rightIcon" : "icon-unfold-more",
+          "title" : "Sophie Lyman"
+        }, {
+          "description" : "from Las Vegas",
+          "id" : 12,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/avatar%2F11.jpg?alt=media&token=901203ed-b0f1-4ec4-9c17-66acec73b3eb",
+          "rightIcon" : "icon-unfold-more",
+          "title" : "Carl Ince"
+        }, {
+          "description" : "from Las Vegas",
+          "id" : 13,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/avatar%2F12.jpg?alt=media&token=09bc8e03-7ea5-49e9-a661-681beffcbb9c",
+          "rightIcon" : "icon-unfold-more",
+          "title" : "Michelle Slater"
+        }, {
+          "description" : "from Las Vegas",
+          "id" : 14,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/avatar%2F13.jpg?alt=media&token=d716d65e-5622-4114-9123-7e7f66a6d65d",
+          "rightIcon" : "icon-unfold-more",
+          "title" : "Ryan Mathis"
+        }, {
+          "description" : "from Las Vegas",
+          "id" : 15,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/avatar%2F14.jpg?alt=media&token=65faccfa-e13e-458a-b1a4-19628c5f4c40",
+          "rightIcon" : "icon-unfold-more",
+          "title" : "Julia Grant"
+        }, {
+          "description" : "from Las Vegas",
+          "id" : 16,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/avatar%2F15.jpg?alt=media&token=16b8d9d6-8f1e-4e20-9137-22e5d60bf73d",
+          "rightIcon" : "icon-unfold-more",
+          "title" : "Hannah Martin"
+        } ]
+      }
+    },
+    "expandable" : {
+      "layout1" : {
+        "items" : [ {
+          "description" : "Alex Miguel",
+          "iconFavorite" : "icon-heart",
+          "iconLike" : "icon-thumb-up",
+          "iconShare" : "icon-share-variant",
+          "id" : 1,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/avatar%2F15.jpg?alt=media&token=16b8d9d6-8f1e-4e20-9137-22e5d60bf73d",
+          "items" : [ {
+            "description" : "Universal, 2016",
+            "iconPlay" : "icon-play-circle-outline",
+            "id" : 1,
+            "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/avatar%2F10.jpg?alt=media&token=c4394ca7-9d1d-46aa-b3cd-16ca32c23d52",
+            "title" : "AlbumName"
+          }, {
+            "description" : "Universal, 2016",
+            "iconPlay" : "icon-play-circle-outline",
+            "id" : 2,
+            "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/avatar%2F11.jpg?alt=media&token=901203ed-b0f1-4ec4-9c17-66acec73b3eb",
+            "title" : "AlbumName"
+          }, {
+            "description" : "Universal, 2016",
+            "iconPlay" : "icon-play-circle-outline",
+            "id" : 3,
+            "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/avatar%2F12.jpg?alt=media&token=09bc8e03-7ea5-49e9-a661-681beffcbb9c",
+            "title" : "AlbumName"
+          }, {
+            "description" : "Universal, 2016",
+            "iconPlay" : "icon-play-circle-outline",
+            "id" : 4,
+            "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/avatar%2F13.jpg?alt=media&token=d716d65e-5622-4114-9123-7e7f66a6d65d",
+            "title" : "AlbumName"
+          } ],
+          "title" : "Artist1"
+        }, {
+          "description" : "BASSO",
+          "iconFavorite" : "icon-heart",
+          "iconLike" : "icon-thumb-up",
+          "iconShare" : "icon-share-variant",
+          "id" : 2,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/avatar%2F2.jpg?alt=media&token=a43152ce-3ebe-430b-87c1-82bd2a160af1",
+          "items" : [ {
+            "description" : "Universal, 2016",
+            "iconPlay" : "icon-play-circle-outline",
+            "id" : 1,
+            "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/avatar%2F14.jpg?alt=media&token=65faccfa-e13e-458a-b1a4-19628c5f4c40",
+            "title" : "AlbumName1"
+          }, {
+            "description" : "Universal, 2016",
+            "iconPlay" : "icon-play-circle-outline",
+            "id" : 2,
+            "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/avatar%2F15.jpg?alt=media&token=16b8d9d6-8f1e-4e20-9137-22e5d60bf73d",
+            "title" : "AlbumName2"
+          }, {
+            "description" : "Universal, 2016",
+            "iconPlay" : "icon-play-circle-outline",
+            "id" : 3,
+            "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/avatar%2F14.jpg?alt=media&token=65faccfa-e13e-458a-b1a4-19628c5f4c40",
+            "title" : "AlbumName3"
+          }, {
+            "description" : "Universal, 2016",
+            "iconPlay" : "icon-play-circle-outline",
+            "id" : 4,
+            "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/avatar%2F13.jpg?alt=media&token=d716d65e-5622-4114-9123-7e7f66a6d65d",
+            "title" : "AlbumName4"
+          }, {
+            "description" : "Universal, 2016",
+            "iconPlay" : "icon-play-circle-outline",
+            "id" : 5,
+            "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/avatar%2F12.jpg?alt=media&token=09bc8e03-7ea5-49e9-a661-681beffcbb9c",
+            "title" : "AlbumName5"
+          }, {
+            "description" : "Universal, 2016",
+            "iconPlay" : "icon-play-circle-outline",
+            "id" : 6,
+            "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/avatar%2F11.jpg?alt=media&token=901203ed-b0f1-4ec4-9c17-66acec73b3eb",
+            "title" : "AlbumName6"
+          } ],
+          "title" : "Artist2"
+        }, {
+          "description" : "GUITARIST",
+          "iconFavorite" : "icon-heart",
+          "iconLike" : "icon-thumb-up",
+          "iconShare" : "icon-share-variant",
+          "id" : 3,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/avatar%2F3.jpg?alt=media&token=2277f6d1-7f5d-49c4-b329-6be869c794e7",
+          "items" : [ {
+            "description" : "Universal, 2016",
+            "iconPlay" : "icon-play-circle-outline",
+            "id" : 1,
+            "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/avatar%2F11.jpg?alt=media&token=901203ed-b0f1-4ec4-9c17-66acec73b3eb",
+            "title" : "AlbumName1"
+          }, {
+            "description" : "Universal, 2016",
+            "iconPlay" : "icon-play-circle-outline",
+            "id" : 2,
+            "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/avatar%2F12.jpg?alt=media&token=09bc8e03-7ea5-49e9-a661-681beffcbb9c",
+            "title" : "AlbumName2"
+          }, {
+            "description" : "Universal, 2016",
+            "iconPlay" : "icon-play-circle-outline",
+            "id" : 3,
+            "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/avatar%2F13.jpg?alt=media&token=d716d65e-5622-4114-9123-7e7f66a6d65d",
+            "title" : "AlbumName3"
+          }, {
+            "description" : "Universal, 2016",
+            "iconPlay" : "icon-play-circle-outline",
+            "id" : 4,
+            "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/avatar%2F14.jpg?alt=media&token=65faccfa-e13e-458a-b1a4-19628c5f4c40",
+            "title" : "AlbumName4"
+          }, {
+            "description" : "Universal, 2016",
+            "iconPlay" : "icon-play-circle-outline",
+            "id" : 5,
+            "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/avatar%2F15.jpg?alt=media&token=16b8d9d6-8f1e-4e20-9137-22e5d60bf73d",
+            "title" : "AlbumName5"
+          } ],
+          "title" : "Artist3"
+        }, {
+          "description" : "SINGER",
+          "iconFavorite" : "icon-heart",
+          "iconLike" : "icon-thumb-up",
+          "iconShare" : "icon-share-variant",
+          "id" : 4,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/avatar%2F4.jpg?alt=media&token=ed4d5233-4d6d-4127-a5bd-638043587f7b",
+          "items" : [ {
+            "description" : "Universal, 2016",
+            "iconPlay" : "icon-play-circle-outline",
+            "id" : 1,
+            "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/avatar%2F0.jpg?alt=media&token=8183f0fa-e8ac-4699-aefb-af8871b29aee",
+            "title" : "AlbumName1"
+          }, {
+            "description" : "Universal, 2016",
+            "iconPlay" : "icon-play-circle-outline",
+            "id" : 2,
+            "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/avatar%2F1.jpg?alt=media&token=5974f480-acdd-4000-9d9d-8a6f0ee00859",
+            "title" : "AlbumName2"
+          }, {
+            "description" : "Universal, 2016",
+            "iconPlay" : "icon-play-circle-outline",
+            "id" : 3,
+            "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/avatar%2F2.jpg?alt=media&token=a43152ce-3ebe-430b-87c1-82bd2a160af1",
+            "title" : "AlbumName3"
+          }, {
+            "description" : "Universal, 2016",
+            "iconPlay" : "icon-play-circle-outline",
+            "id" : 4,
+            "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/avatar%2F3.jpg?alt=media&token=2277f6d1-7f5d-49c4-b329-6be869c794e7",
+            "title" : "AlbumName4"
+          } ],
+          "title" : "Artist4"
+        }, {
+          "description" : "DRUMMER",
+          "iconFavorite" : "icon-heart",
+          "iconLike" : "icon-thumb-up",
+          "iconShare" : "icon-share-variant",
+          "id" : 5,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/avatar%2F5.jpg?alt=media&token=34d4cd54-66ca-41e5-ab31-8b52514e68a9",
+          "items" : [ {
+            "description" : "Universal, 2016",
+            "iconPlay" : "icon-play-circle-outline",
+            "id" : 1,
+            "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/avatar%2F14.jpg?alt=media&token=65faccfa-e13e-458a-b1a4-19628c5f4c40",
+            "title" : "AlbumName1"
+          }, {
+            "description" : "Universal, 2016",
+            "iconPlay" : "icon-play-circle-outline",
+            "id" : 2,
+            "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/avatar%2F15.jpg?alt=media&token=16b8d9d6-8f1e-4e20-9137-22e5d60bf73d",
+            "title" : "AlbumName2"
+          }, {
+            "description" : "Universal, 2016",
+            "iconPlay" : "icon-play-circle-outline",
+            "id" : 3,
+            "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/avatar%2F6.jpg?alt=media&token=89322f3e-d0d9-4d3d-bb93-67d4746dbb86",
+            "title" : "AlbumName3"
+          }, {
+            "description" : "Universal, 2016",
+            "iconPlay" : "icon-play-circle-outline",
+            "id" : 4,
+            "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/avatar%2F7.jpg?alt=media&token=f95ccee3-d059-4e83-ac0c-498f7b27f6ac",
+            "title" : "AlbumName4"
+          } ],
+          "title" : "Artist5"
+        }, {
+          "description" : "DRUMMER",
+          "iconFavorite" : "icon-heart",
+          "iconLike" : "icon-thumb-up",
+          "iconShare" : "icon-share-variant",
+          "id" : 6,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/avatar%2F3.jpg?alt=media&token=2277f6d1-7f5d-49c4-b329-6be869c794e7",
+          "items" : [ {
+            "description" : "Universal, 2016",
+            "iconPlay" : "icon-play-circle-outline",
+            "id" : 1,
+            "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/avatar%2F14.jpg?alt=media&token=65faccfa-e13e-458a-b1a4-19628c5f4c40",
+            "title" : "AlbumName1"
+          }, {
+            "description" : "Universal, 2016",
+            "iconPlay" : "icon-play-circle-outline",
+            "id" : 2,
+            "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/avatar%2F15.jpg?alt=media&token=16b8d9d6-8f1e-4e20-9137-22e5d60bf73d",
+            "title" : "AlbumName2"
+          }, {
+            "description" : "Universal, 2016",
+            "iconPlay" : "icon-play-circle-outline",
+            "id" : 3,
+            "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/avatar%2F6.jpg?alt=media&token=89322f3e-d0d9-4d3d-bb93-67d4746dbb86",
+            "title" : "AlbumName3"
+          }, {
+            "description" : "Universal, 2016",
+            "iconPlay" : "icon-play-circle-outline",
+            "id" : 4,
+            "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/avatar%2F7.jpg?alt=media&token=f95ccee3-d059-4e83-ac0c-498f7b27f6ac",
+            "title" : "AlbumName4"
+          } ],
+          "title" : "Artist5"
+        }, {
+          "description" : "DRUMMER",
+          "iconFavorite" : "icon-heart",
+          "iconLike" : "icon-thumb-up",
+          "iconShare" : "icon-share-variant",
+          "id" : 7,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/avatar%2F4.jpg?alt=media&token=ed4d5233-4d6d-4127-a5bd-638043587f7b",
+          "items" : [ {
+            "description" : "Universal, 2016",
+            "iconPlay" : "icon-play-circle-outline",
+            "id" : 1,
+            "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/avatar%2F14.jpg?alt=media&token=65faccfa-e13e-458a-b1a4-19628c5f4c40",
+            "title" : "AlbumName1"
+          }, {
+            "description" : "Universal, 2016",
+            "iconPlay" : "icon-play-circle-outline",
+            "id" : 2,
+            "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/avatar%2F15.jpg?alt=media&token=16b8d9d6-8f1e-4e20-9137-22e5d60bf73d",
+            "title" : "AlbumName2"
+          }, {
+            "description" : "Universal, 2016",
+            "iconPlay" : "icon-play-circle-outline",
+            "id" : 3,
+            "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/avatar%2F6.jpg?alt=media&token=89322f3e-d0d9-4d3d-bb93-67d4746dbb86",
+            "title" : "AlbumName3"
+          }, {
+            "description" : "Universal, 2016",
+            "iconPlay" : "icon-play-circle-outline",
+            "id" : 4,
+            "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/avatar%2F7.jpg?alt=media&token=f95ccee3-d059-4e83-ac0c-498f7b27f6ac",
+            "title" : "AlbumName4"
+          } ],
+          "title" : "Artist5"
+        } ]
+      },
+      "layout2" : {
+        "items" : [ {
+          "backgroundImage" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/background%2F22.jpg?alt=media&token=25b414ee-ee5b-4d9b-97a1-80a9dc7ec2ce",
+          "button" : "BUY",
+          "id" : 1,
+          "items" : [ "PAY WITH PAYPAL", "PAY WITH VISA CARD", "PAY WITH MAESTRO CARD" ],
+          "title" : "Product 1"
+        }, {
+          "backgroundImage" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/background%2F24.jpg?alt=media&token=f3e1c1b4-78f4-4268-a7e2-f586ca0bd62d",
+          "button" : "BUY",
+          "id" : 2,
+          "items" : [ "PAY WITH PAYPAL", "PAY WITH VISA CARD", "PAY WITH MAESTRO CARD" ],
+          "title" : "Product 2"
+        }, {
+          "backgroundImage" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/background%2F24.jpg?alt=media&token=f3e1c1b4-78f4-4268-a7e2-f586ca0bd62d",
+          "button" : "BUY",
+          "id" : 3,
+          "items" : [ "PAY WITH PAYPAL", "PAY WITH VISA CARD", "PAY WITH MAESTRO CARD" ],
+          "title" : "Product 3"
+        }, {
+          "backgroundImage" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/background%2F25.jpg?alt=media&token=7ce53267-b356-43a6-adb4-678eb8eced3d",
+          "button" : "BUY",
+          "id" : 4,
+          "items" : [ "PAY WITH PAYPAL", "PAY WITH VISA CARD", "PAY WITH MAESTRO CARD" ],
+          "title" : "Product 4"
+        }, {
+          "backgroundImage" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/background%2F26.jpg?alt=media&token=971763c3-fa10-4e03-a807-aec7d260ab92",
+          "button" : "BUY",
+          "id" : 5,
+          "items" : [ "PAY WITH PAYPAL", "PAY WITH VISA CARD", "PAY WITH MAESTRO CARD" ],
+          "title" : "Product 5"
+        }, {
+          "backgroundImage" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/background%2F27.jpg?alt=media&token=7584c8b5-0931-441e-9066-93c1e566df0e",
+          "button" : "BUY",
+          "id" : 6,
+          "items" : [ "PAY WITH PAYPAL", "PAY WITH VISA CARD", "PAY WITH MAESTRO CARD" ],
+          "title" : "Product 5"
+        }, {
+          "backgroundImage" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/background%2F28.jpg?alt=media&token=277acf30-da14-4dbd-b57d-edd41b0b1b61",
+          "button" : "BUY",
+          "id" : 7,
+          "items" : [ "PAY WITH PAYPAL", "PAY WITH VISA CARD", "PAY WITH MAESTRO CARD" ],
+          "title" : "Product 5"
+        } ]
+      },
+      "layout3" : {
+        "headerImage" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/background-small%2F7.jpg?alt=media&token=93b84528-70a3-4367-b2dc-cc5a88146e63",
+        "items" : [ {
+          "icon" : "icon-map-marker-radius",
+          "items" : [ "Monuments", "Sightseeing", "Historical", "Sport" ],
+          "title" : "Where to go"
+        }, {
+          "icon" : "icon-hotel",
+          "items" : [ "Hotels", "Hostels", "Motels", "Rooms" ],
+          "title" : "Where to sleep"
+        }, {
+          "icon" : "icon-silverware-variant",
+          "items" : [ "Fast Food", "Restorants", "Pubs", "Hotels" ],
+          "title" : "Where to eat"
+        }, {
+          "icon" : "icon-martini",
+          "items" : [ "Caffes", "Bars", "Pubs", "Clubs" ],
+          "title" : "Where to drink"
+        }, {
+          "icon" : "icon-map-marker-radius",
+          "items" : [ "Monuments", "Sightseeing", "Historical", "Sport" ],
+          "title" : "Where to go"
+        } ],
+        "title" : "New York"
+      }
+    },
+    "googleCards" : {
+      "layout1" : {
+        "description" : "Author:Username",
+        "duration" : "35:72",
+        "items" : [ {
+          "description" : "Birth year: 1984",
+          "iconFavorite" : "icon-heart",
+          "iconLike" : "icon-thumb-up",
+          "iconShare" : "icon-share-variant",
+          "id" : 1,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/avatar-small%2F0.jpg?alt=media&token=f806a4b9-0c06-445c-9b57-4e6cbe9fdb9b",
+          "longDescription" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do",
+          "shortDescription" : "Country: Germany",
+          "title" : "Atrist Name"
+        }, {
+          "description" : "Birth year: 1980",
+          "iconFavorite" : "icon-heart",
+          "iconLike" : "icon-thumb-up",
+          "iconShare" : "icon-share-variant",
+          "id" : 2,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/avatar-small%2F1.jpg?alt=media&token=fcfc8989-c8e9-4258-a2bc-66aeb5e3d585",
+          "longDescription" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do",
+          "shortDescription" : "Country: Germany",
+          "title" : "Atrist Name"
+        }, {
+          "description" : "Birth year: 1984",
+          "iconFavorite" : "icon-heart",
+          "iconLike" : "icon-thumb-up",
+          "iconShare" : "icon-share-variant",
+          "id" : 3,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/avatar-small%2F2.jpg?alt=media&token=27acb7c5-a159-45fc-87e7-b0c529838ae1",
+          "longDescription" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do",
+          "shortDescription" : "Country: Germany",
+          "title" : "Atrist Name"
+        }, {
+          "description" : "Birth year: 1984",
+          "iconFavorite" : "icon-heart",
+          "iconLike" : "icon-thumb-up",
+          "iconShare" : "icon-share-variant",
+          "id" : 4,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/avatar-small%2F3.jpg?alt=media&token=17b95bc9-9559-4dc6-8237-50aefec29210",
+          "longDescription" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do",
+          "shortDescription" : "Country: Germany",
+          "title" : "Atrist Name"
+        }, {
+          "description" : "Birth year: 1984",
+          "iconFavorite" : "icon-heart",
+          "iconLike" : "icon-thumb-up",
+          "iconShare" : "icon-share-variant",
+          "id" : 5,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/avatar-small%2F4.jpg?alt=media&token=2c3f48b6-e3dd-44e6-aa62-e20eb9c89787",
+          "longDescription" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do",
+          "shortDescription" : "Country: Germany",
+          "title" : "Atrist Name"
+        }, {
+          "description" : "Birth year: 1984",
+          "iconFavorite" : "icon-heart",
+          "iconLike" : "icon-thumb-up",
+          "iconShare" : "icon-share-variant",
+          "id" : 6,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/avatar-small%2F5.jpg?alt=media&token=d36e471c-236a-474a-b7d0-912cda42b2a7",
+          "longDescription" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do",
+          "shortDescription" : "Country: Germany",
+          "title" : "Atrist Name"
+        }, {
+          "description" : "Birth year: 1984",
+          "iconFavorite" : "icon-heart",
+          "iconLike" : "icon-thumb-up",
+          "iconShare" : "icon-share-variant",
+          "id" : 7,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/avatar-small%2F6.jpg?alt=media&token=b2dd0c4c-e7cd-42d0-96d8-32cdfe79c93a",
+          "longDescription" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do",
+          "shortDescription" : "Country: Germany",
+          "title" : "Atrist Name"
+        }, {
+          "description" : "Birth year: 1984",
+          "iconFavorite" : "icon-heart",
+          "iconLike" : "icon-thumb-up",
+          "iconShare" : "icon-share-variant",
+          "id" : 8,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/avatar-small%2F7.jpg?alt=media&token=593ce817-b2c6-49ed-bfc1-db68daed7d72",
+          "longDescription" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do",
+          "shortDescription" : "Country: Germany",
+          "title" : "Atrist Name"
+        } ],
+        "title" : "PlaylistName"
+      },
+      "layout2" : {
+        "items" : [ {
+          "button" : "EXPLORE",
+          "description" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+          "id" : 1,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/background%2F1.jpg?alt=media&token=6b97b15b-dfcc-4726-a6bb-616775e6970a",
+          "shareButton" : "SHARE",
+          "title" : "Card Title 1",
+          "titleHeader" : "Lorem Ipsum 1"
+        }, {
+          "button" : "EXPLORE",
+          "description" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+          "id" : 2,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/background%2F2.jpg?alt=media&token=ed2737a1-10e3-4619-b68f-5b54e4fa06d9",
+          "shareButton" : "SHARE",
+          "title" : "Card Title 2",
+          "titleHeader" : "Lorem Ipsum 2"
+        }, {
+          "button" : "EXPLORE",
+          "description" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+          "id" : 3,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/background%2F5.jpg?alt=media&token=a6983676-52ce-4a96-9f03-d1528aef6057",
+          "shareButton" : "SHARE",
+          "title" : "Card Title 3",
+          "titleHeader" : "Lorem Ipsum 3"
+        }, {
+          "button" : "EXPLORE",
+          "description" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+          "id" : 4,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/background%2F3.jpg?alt=media&token=d79b2510-d07c-4f45-ad2c-4ace65a2a22e",
+          "shareButton" : "SHARE",
+          "title" : "Card Title 4",
+          "titleHeader" : "Lorem Ipsum 4"
+        }, {
+          "button" : "EXPLORE",
+          "description" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+          "id" : 5,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/background%2F1.jpg?alt=media&token=6b97b15b-dfcc-4726-a6bb-616775e6970a",
+          "shareButton" : "SHARE",
+          "title" : "Card Title 5",
+          "titleHeader" : "Lorem Ipsum 5"
+        } ]
+      },
+      "layout3" : {
+        "items" : [ {
+          "id" : 1,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/background%2F0.jpg?alt=media&token=92be79a1-2582-4137-a298-b45ec195e3e3",
+          "imageAlt" : "Google cards",
+          "subtitle" : "Card SubTitle",
+          "title" : "Card Title"
+        }, {
+          "id" : 2,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/background%2F9.jpg?alt=media&token=c3513922-b32e-42f4-963c-0f6e6190eeee",
+          "imageAlt" : "Google cards",
+          "subtitle" : "Card SubTitle",
+          "title" : "Card Title"
+        }, {
+          "id" : 3,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/background%2F8.jpg?alt=media&token=2dffd9a8-c97d-4781-be2b-8b7b98572ecf",
+          "imageAlt" : "Google cards",
+          "subtitle" : "Card SubTitle",
+          "title" : "Card Title"
+        }, {
+          "id" : 4,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/background%2F10.jpg?alt=media&token=5c178726-ec63-49ae-a93d-5c45679fbeec",
+          "imageAlt" : "Google cards",
+          "subtitle" : "Card SubTitle",
+          "title" : "Card Title"
+        }, {
+          "id" : 5,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/background%2F13.jpg?alt=media&token=8c19cfa4-1538-4a6a-9715-72b85ec1e31c",
+          "imageAlt" : "Google cards",
+          "subtitle" : "Card SubTitle",
+          "title" : "Card Title"
+        }, {
+          "id" : 6,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/background%2F11.jpg?alt=media&token=22b72a60-1930-4fb8-8690-74626b823dcf",
+          "imageAlt" : "Google cards",
+          "subtitle" : "Card SubTitle",
+          "title" : "Card Title"
+        }, {
+          "id" : 7,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/background%2F12.jpg?alt=media&token=0b4ccc47-d6df-4b4d-a3d4-df4ca377849c",
+          "imageAlt" : "Google cards",
+          "subtitle" : "Card SubTitle",
+          "title" : "Card Title"
+        }, {
+          "id" : 8,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/background%2F0.jpg?alt=media&token=92be79a1-2582-4137-a298-b45ec195e3e3",
+          "imageAlt" : "Google cards",
+          "subtitle" : "Card SubTitle",
+          "title" : "Card Title"
+        } ]
+      }
+    },
+    "swipeToDismiss" : {
+      "layout1" : {
+        "description" : "HeaderSubtitle",
+        "iconFavorite" : "icon-heart",
+        "iconLike" : "icon-thumb-up",
+        "iconPlay" : "icon-play-circle-outline",
+        "iconShare" : "icon-share-variant",
+        "items" : [ {
+          "description" : "ItemSubtitle",
+          "iconDelate" : "icon-delete",
+          "iconPlay" : "icon-play",
+          "iconUndo" : "icon-undo-variant",
+          "id" : 1,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/avatar%2F0.jpg?alt=media&token=8183f0fa-e8ac-4699-aefb-af8871b29aee",
+          "message" : "SwipedItemTitle",
+          "shortDescription" : "3:42",
+          "title" : "ItemTitle"
+        }, {
+          "description" : "ItemSubtitle",
+          "iconDelate" : "icon-delete",
+          "iconPlay" : "icon-play",
+          "iconUndo" : "icon-undo-variant",
+          "id" : 2,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/avatar%2F1.jpg?alt=media&token=5974f480-acdd-4000-9d9d-8a6f0ee00859",
+          "message" : "SwipedItemTitle",
+          "shortDescription" : "3:42",
+          "title" : "ItemTitle"
+        }, {
+          "description" : "ItemSubtitle",
+          "iconDelate" : "icon-delete",
+          "iconPlay" : "icon-play",
+          "iconUndo" : "icon-undo-variant",
+          "id" : 3,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/avatar%2F2.jpg?alt=media&token=a43152ce-3ebe-430b-87c1-82bd2a160af1",
+          "message" : "SwipedItemTitle",
+          "shortDescription" : "3:42",
+          "title" : "ItemTitle"
+        }, {
+          "description" : "ItemSubtitle",
+          "iconDelate" : "icon-delete",
+          "iconPlay" : "icon-play",
+          "iconUndo" : "icon-undo-variant",
+          "id" : 4,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/avatar%2F3.jpg?alt=media&token=2277f6d1-7f5d-49c4-b329-6be869c794e7",
+          "message" : "SwipedItemTitle",
+          "shortDescription" : "3:42",
+          "title" : "ItemTitle"
+        }, {
+          "description" : "ItemSubtitle",
+          "iconDelate" : "icon-delete",
+          "iconPlay" : "icon-play",
+          "iconUndo" : "icon-undo-variant",
+          "id" : 5,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/avatar%2F4.jpg?alt=media&token=ed4d5233-4d6d-4127-a5bd-638043587f7b",
+          "message" : "SwipedItemTitle",
+          "shortDescription" : "3:42",
+          "title" : "ItemTitle"
+        }, {
+          "description" : "ItemSubtitle",
+          "iconDelate" : "icon-delete",
+          "iconPlay" : "icon-play",
+          "iconUndo" : "icon-undo-variant",
+          "id" : 6,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/avatar%2F5.jpg?alt=media&token=34d4cd54-66ca-41e5-ab31-8b52514e68a9",
+          "message" : "SwipedItemTitle",
+          "shortDescription" : "3:42",
+          "title" : "ItemTitle"
+        }, {
+          "description" : "ItemSubtitle",
+          "iconDelate" : "icon-delete",
+          "iconPlay" : "icon-play",
+          "iconUndo" : "icon-undo-variant",
+          "id" : 7,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/avatar%2F6.jpg?alt=media&token=89322f3e-d0d9-4d3d-bb93-67d4746dbb86",
+          "message" : "SwipedItemTitle",
+          "shortDescription" : "3:42",
+          "title" : "ItemTitle"
+        }, {
+          "description" : "ItemSubtitle",
+          "iconDelate" : "icon-delete",
+          "iconPlay" : "icon-play",
+          "iconUndo" : "icon-undo-variant",
+          "id" : 8,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/avatar%2F7.jpg?alt=media&token=f95ccee3-d059-4e83-ac0c-498f7b27f6ac",
+          "message" : "SwipedItemTitle",
+          "shortDescription" : "3:42",
+          "title" : "ItemTitle"
+        } ],
+        "shortDescription" : "35:72",
+        "title" : "HeaderTitle"
+      },
+      "layout2" : {
+        "buttonText" : "PROCEED",
+        "cardName" : "REVIEW YOUR CART",
+        "headerTitle" : "Order No.1",
+        "items" : [ {
+          "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+          "iconDelate" : "icon-delete",
+          "iconUndo" : "icon-undo-variant",
+          "id" : 1,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/avatar%2F17.jpg?alt=media&token=8b431740-9f73-4e51-bc1b-a174cdf8997c",
+          "message" : "Successfully removed from list!",
+          "newPrice" : "$35.99",
+          "oldPrice" : "$42.99",
+          "title" : "ProductName"
+        }, {
+          "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+          "iconDelate" : "icon-delete",
+          "iconUndo" : "icon-undo-variant",
+          "id" : 2,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/avatar%2F18.jpg?alt=media&token=6ec5b1bb-7443-40d8-baad-c6111242b1ec",
+          "message" : "Successfully removed from list!",
+          "newPrice" : "$35.99",
+          "oldPrice" : "$42.99",
+          "title" : "ProductName"
+        }, {
+          "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+          "iconDelate" : "icon-delete",
+          "iconUndo" : "icon-undo-variant",
+          "id" : 3,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/avatar%2F19.jpg?alt=media&token=eb163598-f976-48b4-bba8-4192a46ca3e3",
+          "message" : "Successfully removed from list!",
+          "newPrice" : "$35.99",
+          "oldPrice" : "$42.99",
+          "title" : "ProductName"
+        }, {
+          "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+          "iconDelate" : "icon-delete",
+          "iconUndo" : "icon-undo-variant",
+          "id" : 4,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/avatar%2F20.jpg?alt=media&token=d5d03835-7543-47a2-b302-53a56236a84c",
+          "message" : "Successfully removed from list!",
+          "newPrice" : "$35.99",
+          "oldPrice" : "$42.99",
+          "title" : "ProductName"
+        }, {
+          "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+          "iconDelate" : "icon-delete",
+          "iconUndo" : "icon-undo-variant",
+          "id" : 5,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/avatar%2F21.jpg?alt=media&token=0ec10cd0-3299-4538-8e7f-9567fdb7e1a3",
+          "message" : "Successfully removed from list!",
+          "newPrice" : "$35.99",
+          "oldPrice" : "$42.99",
+          "title" : "ProductName"
+        }, {
+          "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+          "iconDelate" : "icon-delete",
+          "iconUndo" : "icon-undo-variant",
+          "id" : 6,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/avatar%2F22.jpg?alt=media&token=efc0609c-d6c6-4a54-9776-d0b013a94933",
+          "message" : "Successfully removed from list!",
+          "newPrice" : "$35.99",
+          "oldPrice" : "$42.99",
+          "title" : "ProductName"
+        }, {
+          "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+          "iconDelate" : "icon-delete",
+          "iconUndo" : "icon-undo-variant",
+          "id" : 7,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/avatar%2F23.jpg?alt=media&token=96ff177f-9efb-495d-9c0f-95b072867746",
+          "message" : "Successfully removed from list!",
+          "newPrice" : "$35.99",
+          "oldPrice" : "$42.99",
+          "title" : "ProductName"
+        }, {
+          "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+          "iconDelate" : "icon-delete",
+          "iconUndo" : "icon-undo-variant",
+          "id" : 8,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/avatar%2F17.jpg?alt=media&token=8b431740-9f73-4e51-bc1b-a174cdf8997c",
+          "message" : "Successfully removed from list!",
+          "newPrice" : "$35.99",
+          "oldPrice" : "$42.99",
+          "title" : "ProductName"
+        }, {
+          "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+          "iconDelate" : "icon-delete",
+          "iconUndo" : "icon-undo-variant",
+          "id" : 9,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/avatar%2F18.jpg?alt=media&token=6ec5b1bb-7443-40d8-baad-c6111242b1ec",
+          "message" : "Successfully removed from list!",
+          "newPrice" : "$35.99",
+          "oldPrice" : "$42.99",
+          "title" : "ProductName"
+        } ],
+        "title" : "Free shipping",
+        "totalPrice" : "$56.37",
+        "totalPriceText" : "Total:"
+      },
+      "layout3" : {
+        "items" : [ {
+          "description" : "ItemSubtitle",
+          "iconDelate" : "icon-delete",
+          "iconUndo" : "icon-undo-variant",
+          "id" : 1,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/background-small%2F7.jpg?alt=media&token=93b84528-70a3-4367-b2dc-cc5a88146e63",
+          "title" : "ItemTitle"
+        }, {
+          "description" : "ItemSubtitle",
+          "iconDelate" : "icon-delete",
+          "iconUndo" : "icon-undo-variant",
+          "id" : 2,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/background-small%2F9.jpg?alt=media&token=5e90b5aa-cf5c-4f1e-9ca5-b31856a4e4d8",
+          "title" : "ItemTitle"
+        }, {
+          "description" : "ItemSubtitle",
+          "iconDelate" : "icon-delete",
+          "iconUndo" : "icon-undo-variant",
+          "id" : 3,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/background-small%2F10.jpg?alt=media&token=f2904aea-4440-463d-b7ec-657ba830b6b9",
+          "title" : "ItemTitle"
+        }, {
+          "description" : "ItemSubtitle",
+          "iconDelate" : "icon-delete",
+          "iconUndo" : "icon-undo-variant",
+          "id" : 4,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/background-small%2F11.jpg?alt=media&token=fccf8288-7ecd-49e0-8a4d-b7c2bd51ec97",
+          "title" : "ItemTitle"
+        }, {
+          "description" : "ItemSubtitle",
+          "iconDelate" : "icon-delete",
+          "iconUndo" : "icon-undo-variant",
+          "id" : 5,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/background-small%2F12.jpg?alt=media&token=b6bc3012-6039-41f0-a5be-22f1d3141b20",
+          "title" : "ItemTitle"
+        }, {
+          "description" : "ItemSubtitle",
+          "iconDelate" : "icon-delete",
+          "iconUndo" : "icon-undo-variant",
+          "id" : 6,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/background-small%2F13.jpg?alt=media&token=01162723-72f0-483e-a604-8a87c9f7f9fc",
+          "title" : "ItemTitle"
+        }, {
+          "description" : "ItemSubtitle",
+          "iconDelate" : "icon-delete",
+          "iconUndo" : "icon-undo-variant",
+          "id" : 7,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/background-small%2F14.jpg?alt=media&token=9c2d6b3a-db5c-47ce-88ad-c937d58d9c7c",
+          "title" : "ItemTitle"
+        }, {
+          "description" : "ItemSubtitle",
+          "iconDelate" : "icon-delete",
+          "iconUndo" : "icon-undo-variant",
+          "id" : 8,
+          "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/background-small%2F15.jpg?alt=media&token=440a6bf0-2926-4039-a962-330ccb098d19",
+          "title" : "ItemTitle"
+        } ],
+        "title" : "New York"
+      }
+    }
+  },
+  "login" : {
+    "layout1" : {
+      "login" : "Login",
+      "logo" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/logo%2Flogin.png?alt=media&token=548051c8-bab6-4538-baa7-e4eba51548a9",
+      "password" : "Password",
+      "register" : "Register",
+      "skip" : "Skip",
+      "username" : "Username"
+    },
+    "layout2" : {
+      "login" : "Login",
+      "logo" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/logo%2Flogin.png?alt=media&token=548051c8-bab6-4538-baa7-e4eba51548a9",
+      "password" : "Password",
+      "register" : "Register",
+      "skip" : "Skip",
+      "username" : "Username"
+    }
+  },
+  "loginAndRegister" : {
+    "layout1" : {
+      "backgroundImage" : "icon-account",
+      "iconAccount" : "icon-key",
+      "iconKey" : "",
+      "iconLock" : "assets/images/background/loginlight.jpg",
+      "login" : "Login",
+      "logo" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/logo%2Flogin.png?alt=media&token=548051c8-bab6-4538-baa7-e4eba51548a9",
+      "password" : "Password",
+      "register" : "Register",
+      "skip" : "Skip",
+      "username" : "Username"
+    },
+    "layout2" : {
+      "address" : "Address",
+      "backgroundImage" : "assets/images/background/registertravel.jpg",
+      "button" : "submit",
+      "city" : "City",
+      "country" : "Country",
+      "email" : "Email",
+      "iconAccount" : "icon-account",
+      "iconAccountMultiple" : "icon-account-multiple",
+      "iconCity" : "icon-city",
+      "iconEmail" : "icon-email-outline",
+      "iconFlag" : "icon-flag-outline-variant",
+      "iconHome" : "icon-home-variant",
+      "iconLock" : "icon-lock",
+      "iconWeb" : "icon-web",
+      "logo" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/logo%2Flogin.png?alt=media&token=548051c8-bab6-4538-baa7-e4eba51548a9",
+      "password" : "Password",
+      "register" : "Register",
+      "skip" : "Skip",
+      "state" : "State",
+      "username" : "Username"
+    }
+  },
+  "maps" : {
+    "layout1" : {
+      "contentDescription" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Luctus semper elit platea; Velit aptent euismod pede euismod facilisis? In ultrices venenatis mauris. Consequat gravida pretium ligula lectus; Lacus natoque elit elit: Imperdiet cursus fermentum suspendisse; Cum iaculis venenatis!",
+      "contentTitle" : "In short",
+      "iconEarth" : "icon-earth",
+      "iconEarthText" : "www.csform.com",
+      "iconEmail" : "icon-email-outline",
+      "iconEmailText" : "dev@csform.com",
+      "iconFavorite" : "icon-heart",
+      "iconLike" : "icon-thumb-up",
+      "iconLoacation" : "icon-map-marker-radius",
+      "iconLoacationText" : "Design Street, New York, USA",
+      "iconPhone" : "icon-phone",
+      "iconPhoneText" : "333 222 111",
+      "iconShare" : "icon-share-variant",
+      "iconWatch" : "icon-alarm",
+      "iconWatchText" : "8:00 to 16:00 working days",
+      "iconsStars" : [ {
+        "iconActive" : "icon-star",
+        "iconInactive" : "icon-star-outline",
+        "isActive" : true
+      }, {
+        "iconActive" : "icon-star",
+        "iconInactive" : "icon-star-outline",
+        "isActive" : true
+      }, {
+        "iconActive" : "icon-star",
+        "iconInactive" : "icon-star-outline",
+        "isActive" : true
+      }, {
+        "iconActive" : "icon-star",
+        "iconInactive" : "icon-star-outline",
+        "isActive" : true
+      }, {
+        "iconActive" : "icon-star",
+        "iconInactive" : "icon-star-outline",
+        "isActive" : false
+      } ],
+      "map" : {
+        "lat" : 40.712562,
+        "lng" : -74.005911,
+        "mapTypeControl" : true,
+        "streetViewControl" : true,
+        "zoom" : 15
+      },
+      "reviews" : "4.12 (78 reviews)",
+      "title" : "Museum of modern art",
+      "titleDescription" : "Art Boulevard, New York, USA"
+    },
+    "layout2" : {
+      "contentDescription" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Luctus semper elit platea; Velit aptent euismod pede euismod facilisis? In ultrices venenatis mauris. Consequat gravida pretium ligula lectus; Lacus natoque elit elit: Imperdiet cursus fermentum suspendisse; Cum iaculis venenatis!",
+      "contentTitle" : "About us",
+      "iconEarth" : "icon-earth",
+      "iconEarthText" : "www.csform.com",
+      "iconEmail" : "icon-email-outline",
+      "iconEmailText" : "dev@csform.com",
+      "iconFavorite" : "icon-heart",
+      "iconLike" : "icon-thumb-up",
+      "iconLoacation" : "icon-map-marker-radius",
+      "iconLoacationText" : "Design Street, New York, USA",
+      "iconPhone" : "icon-phone",
+      "iconPhoneText" : "333 222 111",
+      "iconShare" : "icon-share-variant",
+      "iconWatch" : "icon-alarm",
+      "iconWatchText" : "8:00 to 16:00 working days",
+      "map" : {
+        "lat" : 40.712562,
+        "lng" : -74.005911,
+        "mapTypeControl" : true,
+        "streetViewControl" : true,
+        "zoom" : 15
+      },
+      "title" : "Creative Studio Form",
+      "titleDescription" : "Design & Development agency",
+      "titleMap" : "Here we are :"
+    },
+    "layout3" : {
+      "map" : {
+        "lat" : 40.712562,
+        "lng" : -74.005911,
+        "mapTypeControl" : true,
+        "streetViewControl" : true,
+        "zoom" : 15
+      }
+    }
+  },
+  "menu" : {
+    "background" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/background%2F16.jpg?alt=media&token=7797f509-56c4-481b-8008-9b43801cd629",
+    "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/logo%2Flogin.png?alt=media&token=548051c8-bab6-4538-baa7-e4eba51548a9",
+    "title" : "Ionic3 UI Theme - Yellow Dark"
+  },
+  "pages" : {
+    "about-us" : {
+      "params" : {
+        "about-us" : "Somos Una empresa dedicada a la informacion de todo l ventas.",
+        "img" : "http://pfpenergy.co.uk/media/1188/about-us-title-2.png",
+        "services" : [ {
+          "content" : "Una empresa dedicada a la.",
+          "subtitle" : "Subtitle",
+          "title" : "Privacy Policy",
+          "type" : "privacyPolicy"
+        }, {
+          "content" : "Refund PolicyRefund PolicyRefund PolicyRefund PolicyRefund Policy",
+          "subtitle" : "Refund Policy",
+          "title" : "Refund Info Policy",
+          "type" : "refoundPolicy"
+        } ],
+        "title" : "Quienes Somos"
+      }
+    },
+    "contact-us" : {
+      "params" : {
+        "address" : "Piedrahit y Buenos Aires Frente a los tanques de agua potable",
+        "email" : "kalexmiguelalba@gmail.com",
+        "phoneNo" : "09856175421",
+        "title" : "Contactanos"
+      }
+    },
+    "home" : {
+      "params" : {
+        "title" : "Wulpyms"
+      }
+    }
+  },
+  "parallax" : {
+    "layout1" : {
+      "headerImage" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/background%2F14.jpg?alt=media&token=f924d8eb-1124-46f3-97d3-5c8068bcd848",
+      "iconFavorite" : "icon-heart",
+      "iconLike" : "icon-thumb-up",
+      "iconPlay" : "icon-play",
+      "iconShare" : "icon-share-variant",
+      "iconSkipNext" : "icon-skip-next",
+      "iconSkipPrevious" : "icon-skip-previous",
+      "items" : [ {
+        "description" : "ArtistName",
+        "duration" : "3:42",
+        "icon" : "icon-heart-outline",
+        "id" : 1,
+        "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/avatar%2F0.jpg?alt=media&token=8183f0fa-e8ac-4699-aefb-af8871b29aee",
+        "imageAlt" : "avatar",
+        "title" : "SongName"
+      }, {
+        "description" : "ArtistName",
+        "duration" : "3:42",
+        "icon" : "icon-heart-outline",
+        "id" : 2,
+        "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/avatar%2F1.jpg?alt=media&token=5974f480-acdd-4000-9d9d-8a6f0ee00859",
+        "imageAlt" : "avatar",
+        "title" : "SongName"
+      }, {
+        "description" : "ArtistName",
+        "duration" : "3:42",
+        "icon" : "icon-heart-outline",
+        "id" : 3,
+        "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/avatar%2F2.jpg?alt=media&token=a43152ce-3ebe-430b-87c1-82bd2a160af1",
+        "imageAlt" : "avatar",
+        "title" : "SongName"
+      }, {
+        "description" : "ArtistName",
+        "duration" : "3:42",
+        "icon" : "icon-heart-outline",
+        "id" : 4,
+        "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/avatar%2F3.jpg?alt=media&token=2277f6d1-7f5d-49c4-b329-6be869c794e7",
+        "imageAlt" : "avatar",
+        "title" : "SongName"
+      }, {
+        "description" : "ArtistName",
+        "duration" : "3:42",
+        "icon" : "icon-heart-outline",
+        "id" : 5,
+        "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/avatar%2F4.jpg?alt=media&token=ed4d5233-4d6d-4127-a5bd-638043587f7b",
+        "imageAlt" : "avatar",
+        "title" : "SongName"
+      }, {
+        "description" : "ArtistName",
+        "duration" : "3:42",
+        "icon" : "icon-heart-outline",
+        "id" : 6,
+        "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/avatar%2F5.jpg?alt=media&token=34d4cd54-66ca-41e5-ab31-8b52514e68a9",
+        "imageAlt" : "avatar",
+        "title" : "SongName"
+      }, {
+        "description" : "ArtistName",
+        "duration" : "3:42",
+        "icon" : "icon-heart-outline",
+        "id" : 7,
+        "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/avatar%2F6.jpg?alt=media&token=89322f3e-d0d9-4d3d-bb93-67d4746dbb86",
+        "imageAlt" : "avatar",
+        "title" : "SongName"
+      }, {
+        "description" : "ArtistName",
+        "duration" : "3:42",
+        "icon" : "icon-heart-outline",
+        "id" : 8,
+        "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/avatar%2F7.jpg?alt=media&token=f95ccee3-d059-4e83-ac0c-498f7b27f6ac",
+        "imageAlt" : "avatar",
+        "title" : "SongName"
+      }, {
+        "description" : "ArtistName",
+        "duration" : "3:42",
+        "icon" : "icon-heart-outline",
+        "id" : 9,
+        "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/avatar%2F1.jpg?alt=media&token=5974f480-acdd-4000-9d9d-8a6f0ee00859",
+        "imageAlt" : "avatar",
+        "title" : "SongName"
+      }, {
+        "description" : "ArtistName",
+        "duration" : "3:42",
+        "icon" : "icon-heart-outline",
+        "id" : 10,
+        "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/avatar%2F2.jpg?alt=media&token=a43152ce-3ebe-430b-87c1-82bd2a160af1",
+        "imageAlt" : "avatar",
+        "title" : "SongName"
+      }, {
+        "description" : "ArtistName",
+        "duration" : "3:42",
+        "icon" : "icon-heart-outline",
+        "id" : 11,
+        "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/avatar%2F0.jpg?alt=media&token=8183f0fa-e8ac-4699-aefb-af8871b29aee",
+        "imageAlt" : "avatar",
+        "title" : "SongName"
+      }, {
+        "description" : "ArtistName",
+        "duration" : "3:42",
+        "icon" : "icon-heart-outline",
+        "id" : 12,
+        "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/avatar%2F3.jpg?alt=media&token=2277f6d1-7f5d-49c4-b329-6be869c794e7",
+        "imageAlt" : "avatar",
+        "title" : "SongName"
+      } ],
+      "title" : "ArtistName",
+      "toolBarTitle" : "Player"
+    },
+    "layout2" : {
+      "description" : "50% OFF",
+      "headerImage" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/background%2F7.jpg?alt=media&token=b9f2d667-9d22-4cc1-b61d-fedec18acff3",
+      "iconFavorite" : "icon-heart",
+      "iconLike" : "icon-thumb-up",
+      "iconShare" : "icon-share-variant",
+      "items" : [ {
+        "description" : "Duis aute irure dolor in reprehenderit",
+        "id" : 1,
+        "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/avatar%2F0.jpg?alt=media&token=8183f0fa-e8ac-4699-aefb-af8871b29aee",
+        "newPrice" : "$35.99",
+        "oldPrice" : "$42.99",
+        "title" : "Black Shirt"
+      }, {
+        "description" : "Duis aute irure dolor in reprehenderit",
+        "id" : 2,
+        "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/avatar%2F1.jpg?alt=media&token=5974f480-acdd-4000-9d9d-8a6f0ee00859",
+        "newPrice" : "$35.99",
+        "oldPrice" : "$42.99",
+        "title" : "Black Sweater"
+      }, {
+        "description" : "Duis aute irure dolor in reprehenderit",
+        "id" : 3,
+        "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/avatar%2F2.jpg?alt=media&token=a43152ce-3ebe-430b-87c1-82bd2a160af1",
+        "newPrice" : "$35.99",
+        "oldPrice" : "$42.99",
+        "title" : "Shirt"
+      }, {
+        "description" : "Duis aute irure dolor in reprehenderit",
+        "id" : 4,
+        "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/avatar%2F3.jpg?alt=media&token=2277f6d1-7f5d-49c4-b329-6be869c794e7",
+        "newPrice" : "$35.99",
+        "oldPrice" : "$42.99",
+        "title" : "White Shirt"
+      }, {
+        "description" : "Duis aute irure dolor in reprehenderit",
+        "id" : 5,
+        "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/avatar%2F4.jpg?alt=media&token=ed4d5233-4d6d-4127-a5bd-638043587f7b",
+        "newPrice" : "$35.99",
+        "oldPrice" : "$42.99",
+        "title" : "White T Shirt"
+      }, {
+        "description" : "Duis aute irure dolor in reprehenderit",
+        "id" : 6,
+        "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/avatar%2F5.jpg?alt=media&token=34d4cd54-66ca-41e5-ab31-8b52514e68a9",
+        "newPrice" : "$35.99",
+        "oldPrice" : "$42.99",
+        "title" : "Hoodies"
+      }, {
+        "description" : "Duis aute irure dolor in reprehenderit",
+        "id" : 7,
+        "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/avatar%2F0.jpg?alt=media&token=8183f0fa-e8ac-4699-aefb-af8871b29aee",
+        "newPrice" : "$35.99",
+        "oldPrice" : "$42.99",
+        "title" : "Black Shirt"
+      }, {
+        "description" : "Duis aute irure dolor in reprehenderit",
+        "id" : 8,
+        "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/avatar%2F1.jpg?alt=media&token=5974f480-acdd-4000-9d9d-8a6f0ee00859",
+        "newPrice" : "$35.99",
+        "oldPrice" : "$42.99",
+        "title" : "Black Sweater"
+      }, {
+        "description" : "Duis aute irure dolor in reprehenderit",
+        "id" : 9,
+        "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/avatar%2F2.jpg?alt=media&token=a43152ce-3ebe-430b-87c1-82bd2a160af1",
+        "newPrice" : "$35.99",
+        "oldPrice" : "$42.99",
+        "title" : "Shirt"
+      }, {
+        "description" : "Duis aute irure dolor in reprehenderit",
+        "id" : 10,
+        "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/avatar%2F3.jpg?alt=media&token=2277f6d1-7f5d-49c4-b329-6be869c794e7",
+        "newPrice" : "$35.99",
+        "oldPrice" : "$42.99",
+        "title" : "White Shirt"
+      }, {
+        "description" : "Duis aute irure dolor in reprehenderit",
+        "id" : 11,
+        "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/avatar%2F4.jpg?alt=media&token=ed4d5233-4d6d-4127-a5bd-638043587f7b",
+        "newPrice" : "$35.99",
+        "oldPrice" : "$42.99",
+        "title" : "White T Shirt"
+      }, {
+        "description" : "Duis aute irure dolor in reprehenderit",
+        "id" : 12,
+        "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/avatar%2F5.jpg?alt=media&token=34d4cd54-66ca-41e5-ab31-8b52514e68a9",
+        "newPrice" : "$35.99",
+        "oldPrice" : "$42.99",
+        "title" : "Hoodies"
+      } ],
+      "title" : "Super discount",
+      "toolBarTitle" : "Product"
+    },
+    "layout3" : {
+      "avatar" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/avatar%2F0.jpg?alt=media&token=8183f0fa-e8ac-4699-aefb-af8871b29aee",
+      "avatarAlt" : "Avatar",
+      "headerImage" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/background%2F2.jpg?alt=media&token=ed2737a1-10e3-4619-b68f-5b54e4fa06d9",
+      "items" : [ {
+        "favorite" : false,
+        "icon" : "icon-heart-outline",
+        "id" : 1,
+        "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/avatar%2F0.jpg?alt=media&token=8183f0fa-e8ac-4699-aefb-af8871b29aee",
+        "title" : "Isaac Raid"
+      }, {
+        "favorite" : false,
+        "icon" : "icon-heart-outline",
+        "id" : 2,
+        "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/avatar%2F1.jpg?alt=media&token=5974f480-acdd-4000-9d9d-8a6f0ee00859",
+        "title" : "Jason Graham"
+      }, {
+        "favorite" : false,
+        "icon" : "icon-heart-outline",
+        "id" : 3,
+        "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/avatar%2F2.jpg?alt=media&token=a43152ce-3ebe-430b-87c1-82bd2a160af1",
+        "title" : "Abigail Ross"
+      }, {
+        "favorite" : false,
+        "icon" : "icon-heart-outline",
+        "id" : 4,
+        "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/avatar%2F3.jpg?alt=media&token=2277f6d1-7f5d-49c4-b329-6be869c794e7",
+        "title" : "Justin Rutherford"
+      }, {
+        "favorite" : false,
+        "icon" : "icon-heart-outline",
+        "id" : 5,
+        "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/avatar%2F4.jpg?alt=media&token=ed4d5233-4d6d-4127-a5bd-638043587f7b",
+        "title" : "Nicholas Henderson"
+      }, {
+        "favorite" : false,
+        "icon" : "icon-heart-outline",
+        "id" : 6,
+        "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/avatar%2F5.jpg?alt=media&token=34d4cd54-66ca-41e5-ab31-8b52514e68a9",
+        "title" : "Elizabeth Mackenzie"
+      }, {
+        "favorite" : false,
+        "icon" : "icon-heart-outline",
+        "id" : 7,
+        "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/avatar%2F6.jpg?alt=media&token=89322f3e-d0d9-4d3d-bb93-67d4746dbb86",
+        "title" : "Melanie Ferguson"
+      }, {
+        "favorite" : false,
+        "icon" : "icon-heart-outline",
+        "id" : 8,
+        "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/avatar%2F7.jpg?alt=media&token=f95ccee3-d059-4e83-ac0c-498f7b27f6ac",
+        "title" : "Fiona Kelly"
+      }, {
+        "favorite" : false,
+        "icon" : "icon-heart-outline",
+        "id" : 9,
+        "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/avatar%2F8.jpg?alt=media&token=1725c145-de43-431b-ab85-914606676d37",
+        "title" : "Nicholas King"
+      }, {
+        "favorite" : false,
+        "icon" : "icon-heart-outline",
+        "id" : 10,
+        "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/avatar%2F9.jpg?alt=media&token=1bc9608d-8590-40b8-b24b-fc5a54e82cf1",
+        "title" : "Victoria Mitchell"
+      }, {
+        "favorite" : false,
+        "icon" : "icon-heart-outline",
+        "id" : 11,
+        "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/avatar%2F10.jpg?alt=media&token=c4394ca7-9d1d-46aa-b3cd-16ca32c23d52",
+        "title" : "Sophie Lyman"
+      }, {
+        "favorite" : false,
+        "icon" : "icon-heart-outline",
+        "id" : 12,
+        "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/avatar%2F11.jpg?alt=media&token=901203ed-b0f1-4ec4-9c17-66acec73b3eb",
+        "title" : "Carl Ince"
+      }, {
+        "favorite" : false,
+        "icon" : "icon-heart-outline",
+        "id" : 13,
+        "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/avatar%2F12.jpg?alt=media&token=09bc8e03-7ea5-49e9-a661-681beffcbb9c",
+        "title" : "Michelle Slater"
+      }, {
+        "favorite" : false,
+        "icon" : "icon-heart-outline",
+        "id" : 14,
+        "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/avatar%2F13.jpg?alt=media&token=d716d65e-5622-4114-9123-7e7f66a6d65d",
+        "title" : "Ryan Mathis"
+      }, {
+        "favorite" : false,
+        "icon" : "icon-heart-outline",
+        "id" : 15,
+        "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/avatar%2F14.jpg?alt=media&token=65faccfa-e13e-458a-b1a4-19628c5f4c40",
+        "title" : "Julia Grant"
+      }, {
+        "favorite" : false,
+        "icon" : "icon-heart-outline",
+        "id" : 16,
+        "image" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/avatar%2F15.jpg?alt=media&token=16b8d9d6-8f1e-4e20-9137-22e5d60bf73d",
+        "title" : "Hannah Martin"
+      } ],
+      "title" : "Parallax Title"
+    },
+    "layout4" : {
+      "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud.",
+      "description2" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud.",
+      "description3" : "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using Content here, content here, making it look like readable English",
+      "description4" : "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source.",
+      "headerImage" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/background%2F15.jpg?alt=media&token=134a4941-b5ce-4789-8496-18c0fa0c7608",
+      "iconButton" : "icon-walk",
+      "iconFavorite" : "icon-comment",
+      "iconLike" : "icon-thumb-up",
+      "iconShare" : "icon-share-variant",
+      "iconsStars" : [ {
+        "iconActive" : "icon-star",
+        "iconInactive" : "icon-star-outline",
+        "isActive" : true
+      }, {
+        "iconActive" : "icon-star",
+        "iconInactive" : "icon-star-outline",
+        "isActive" : true
+      }, {
+        "iconActive" : "icon-star",
+        "iconInactive" : "icon-star-outline",
+        "isActive" : true
+      }, {
+        "iconActive" : "icon-star",
+        "iconInactive" : "icon-star-outline",
+        "isActive" : true
+      }, {
+        "iconActive" : "icon-star",
+        "iconInactive" : "icon-star-outline",
+        "isActive" : false
+      } ],
+      "items" : [ {
+        "id" : 1,
+        "name" : "ADDRESS:",
+        "value" : "Boulevard of food, New York, USA"
+      }, {
+        "id" : 2,
+        "name" : "PHONE:",
+        "value" : "+555 555 555"
+      }, {
+        "id" : 3,
+        "name" : "WEB:",
+        "value" : "www.joesrestaurant.com"
+      }, {
+        "id" : 4,
+        "name" : "MAIL:",
+        "value" : "jimmy@gmail.com"
+      }, {
+        "id" : 5,
+        "name" : "WORKING HOURS:",
+        "value" : "7:00 to 23:00 every day"
+      } ],
+      "reviews" : "4.12 (78 reviews)",
+      "title" : "Joe's restaurant"
+    }
+  },
+  "register" : {
+    "layout1" : {
+      "button" : "submit",
+      "city" : "City",
+      "country" : "Country",
+      "email" : "Email",
+      "logo" : "assets/images/logo/login.png",
+      "password" : "Password",
+      "register" : "Register",
+      "skip" : "Skip",
+      "username" : "Username"
+    },
+    "layout2" : {
+      "city" : "City",
+      "country" : "Country",
+      "email" : "Email",
+      "iconAccount" : "icon-account",
+      "iconCity" : "icon-city",
+      "iconEmail" : "icon-email-outline",
+      "iconHome" : "icon-home-variant",
+      "iconLock" : "icon-lock",
+      "iconWeb" : "icon-web",
+      "logo" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/logo%2Flogin-2.png?alt=media&token=7e792219-3484-4fa1-80d6-b9fd5b25e0a8",
+      "password" : "Password",
+      "skip" : "Skip",
+      "submit" : "submit",
+      "username" : "Username"
+    }
+  },
+  "searchBars" : {
+    "layout1" : {
+      "items" : [ {
+        "description" : "254 people",
+        "icon" : "icon-account-check",
+        "title" : "Friends"
+      }, {
+        "description" : "254 people",
+        "icon" : "icon-account-check",
+        "title" : "Enemies"
+      }, {
+        "description" : "254 people",
+        "icon" : "icon-account-check",
+        "title" : "Neutral"
+      }, {
+        "description" : "254 people",
+        "icon" : "icon-account-check",
+        "title" : "Family"
+      }, {
+        "description" : "254 people",
+        "icon" : "icon-account-check",
+        "title" : "Guests"
+      }, {
+        "description" : "254 people",
+        "icon" : "icon-account-check",
+        "title" : "Students"
+      }, {
+        "description" : "254 people",
+        "icon" : "icon-account-check",
+        "title" : "Friends"
+      }, {
+        "description" : "254 people",
+        "icon" : "icon-account-check",
+        "title" : "Enemies"
+      }, {
+        "description" : "254 people",
+        "icon" : "icon-account-check",
+        "title" : "Neutral"
+      }, {
+        "description" : "254 people",
+        "icon" : "icon-account-check",
+        "title" : "Family"
+      }, {
+        "description" : "254 people",
+        "icon" : "icon-account-check",
+        "title" : "Guests"
+      }, {
+        "description" : "254 people",
+        "icon" : "icon-account-check",
+        "title" : "Students"
+      } ],
+      "toolBarTitle" : "Simple"
+    },
+    "layout2" : {
+      "headerImage" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/background%2F30.jpg?alt=media&token=b663d70c-5f4e-48b7-848f-76b90e9088a8",
+      "items" : [ {
+        "icon" : "icon-music-box",
+        "title" : "Song"
+      }, {
+        "icon" : "icon-headset",
+        "title" : "Album"
+      }, {
+        "icon" : "icon-human-child",
+        "title" : "Artist"
+      }, {
+        "icon" : "icon-menu",
+        "title" : "Genre"
+      }, {
+        "icon" : "icon-music-box",
+        "title" : "Song"
+      }, {
+        "icon" : "icon-headset",
+        "title" : "Album"
+      }, {
+        "icon" : "icon-human-child",
+        "title" : "Artist"
+      }, {
+        "icon" : "icon-menu",
+        "title" : "Genre"
+      }, {
+        "icon" : "icon-headset",
+        "title" : "Album"
+      } ],
+      "searchText" : "Search by",
+      "toolBarTitle" : "Field + header"
+    },
+    "layout3" : {
+      "headerImage" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/background%2F9.jpg?alt=media&token=c3513922-b32e-42f4-963c-0f6e6190eeee",
+      "items" : [ {
+        "description" : "3:30min walking tour",
+        "icon" : "icon-map-marker-radius",
+        "id" : 1,
+        "price" : "123$",
+        "title" : "Monument walk tour"
+      }, {
+        "description" : "3:30min walking tour",
+        "icon" : "icon-map-marker-radius",
+        "id" : 2,
+        "price" : "123$",
+        "title" : "River walk tour"
+      }, {
+        "description" : "3:30min walking tour",
+        "icon" : "icon-map-marker-radius",
+        "id" : 3,
+        "price" : "123$",
+        "title" : "City walk tour"
+      }, {
+        "description" : "3:30min walking tour",
+        "icon" : "icon-map-marker-radius",
+        "id" : 4,
+        "price" : "123$",
+        "title" : "Park walk tour"
+      }, {
+        "description" : "3:30min walking tour",
+        "icon" : "icon-map-marker-radius",
+        "id" : 5,
+        "price" : "123$",
+        "title" : "Vilage walk tour"
+      }, {
+        "description" : "3:30min walking tour",
+        "icon" : "icon-map-marker-radius",
+        "id" : 6,
+        "price" : "123$",
+        "title" : "Lake walk tour"
+      }, {
+        "description" : "3:30min walking tour",
+        "icon" : "icon-map-marker-radius",
+        "id" : 7,
+        "price" : "123$",
+        "title" : "Castle walk tour"
+      }, {
+        "description" : "3:30min walking tour",
+        "icon" : "icon-map-marker-radius",
+        "id" : 8,
+        "price" : "123$",
+        "title" : "Beach walk tour"
+      } ]
+    }
+  },
+  "spinner" : {
+    "all" : [ {
+      "icon" : "tail-spin"
+    }, {
+      "icon" : "oval"
+    }, {
+      "icon" : "audio"
+    }, {
+      "icon" : "bars"
+    }, {
+      "icon" : "hearts"
+    }, {
+      "icon" : "three-dots"
+    }, {
+      "icon" : "puff"
+    }, {
+      "icon" : "grid"
+    }, {
+      "icon" : "ball-triangle"
+    }, {
+      "icon" : "circles"
+    } ]
+  },
+  "splashScreen" : {
+    "layout1" : {
+      "backgroundImage" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/background%2F29.jpg?alt=media&token=236a9ff0-6628-4d3d-966f-bd228a299cc5",
+      "duration" : 10000,
+      "logo" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/logo%2Flogin.png?alt=media&token=548051c8-bab6-4538-baa7-e4eba51548a9",
+      "title" : ""
+    },
+    "layout2" : {
+      "backgroundImage" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/background%2F29.jpg?alt=media&token=236a9ff0-6628-4d3d-966f-bd228a299cc5",
+      "duration" : 10000,
+      "logo" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/logo%2Flogin.png?alt=media&token=548051c8-bab6-4538-baa7-e4eba51548a9",
+      "title" : ""
+    },
+    "layout3" : {
+      "backgroundImage" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/background%2F29.jpg?alt=media&token=236a9ff0-6628-4d3d-966f-bd228a299cc5",
+      "duration" : 10000,
+      "logo" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/logo%2Flogin.png?alt=media&token=548051c8-bab6-4538-baa7-e4eba51548a9",
+      "title" : "IONICTEMPLATE"
+    }
+  },
+  "tab" : {
+    "tab1" : {
+      "backgroundImage" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/avatar-large%2F5.jpg?alt=media&token=7d34ab40-0546-4e3f-ba23-26933cb8936a",
+      "description" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
+      "title" : "Fragment Example 1"
+    },
+    "tab2" : {
+      "backgroundImage" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/avatar-large%2F6.jpg?alt=media&token=3c3211b3-6baa-4de0-9723-0b8506b4f963",
+      "description" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
+      "title" : "Fragment Example 2"
+    },
+    "tab3" : {
+      "backgroundImage" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/avatar-large%2F7.jpg?alt=media&token=db754b88-6e2d-4eb7-a1ac-e9187e097658",
+      "description" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
+      "title" : "Fragment Example 3"
+    },
+    "tab4" : {
+      "backgroundImage" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/avatar-large%2F5.jpg?alt=media&token=7d34ab40-0546-4e3f-ba23-26933cb8936a",
+      "description" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
+      "title" : "Fragment Example 4"
+    },
+    "tab5" : {
+      "backgroundImage" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/avatar-large%2F6.jpg?alt=media&token=3c3211b3-6baa-4de0-9723-0b8506b4f963",
+      "description" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
+      "title" : "Fragment Example 5"
+    },
+    "tab6" : {
+      "backgroundImage" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/avatar-large%2F5.jpg?alt=media&token=7d34ab40-0546-4e3f-ba23-26933cb8936a",
+      "description" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
+      "title" : "Fragment Example 6"
+    }
+  },
+  "wizard" : {
+    "layout1" : {
+      "btnFinish" : "Finish",
+      "btnNext" : "Next",
+      "btnPrev" : "Previous",
+      "items" : [ {
+        "buttonNext" : "Next1",
+        "description" : "Text for Fragment Example 1 Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+        "iconSlider" : "icon-star-outline",
+        "logo" : "",
+        "title" : "Fragment Example 1"
+      }, {
+        "buttonNext" : "Next",
+        "buttonPrevious" : "Previous",
+        "description" : "Text for Fragment Example 2 Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+        "iconSlider" : "icon-star-half",
+        "logo" : "",
+        "title" : "Fragment Example 2"
+      }, {
+        "buttonFinish" : "Finish",
+        "buttonPrevious" : "Previous",
+        "description" : "Text for Fragment Example 3 Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+        "iconSlider" : "icon-star",
+        "logo" : "",
+        "title" : "Fragment Example 3"
+      } ],
+      "toolBarTitle" : "Simple + icon"
+    },
+    "layout2" : {
+      "btnFinish" : "Finish",
+      "btnNext" : "Next",
+      "items" : [ {
+        "backgroundImage" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/avatar-large%2F1.jpg?alt=media&token=34365d9f-a10f-4b33-ab91-c3df88ae2ae4",
+        "title" : "Fragment Example 1"
+      }, {
+        "backgroundImage" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/avatar-large%2F2.jpg?alt=media&token=4db22904-d277-4a30-be3a-44d3bf763b54",
+        "title" : "Fragment Example 2"
+      }, {
+        "backgroundImage" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/avatar-large%2F3.jpg?alt=media&token=2ba09f68-b950-47c9-bd1f-de6eca8a7c0e",
+        "title" : "Fragment Example 3"
+      } ],
+      "toolBarTitle" : "Big image"
+    },
+    "layout3" : {
+      "btnFinish" : "Finish",
+      "btnNext" : "Next",
+      "btnSkip" : "Skip",
+      "items" : [ {
+        "backgroundImage" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/avatar-large%2F5.jpg?alt=media&token=7d34ab40-0546-4e3f-ba23-26933cb8936a",
+        "button" : "Next",
+        "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat",
+        "skip" : "Skip",
+        "title" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the 1"
+      }, {
+        "backgroundImage" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/avatar-large%2F6.jpg?alt=media&token=3c3211b3-6baa-4de0-9723-0b8506b4f963",
+        "button" : "Next",
+        "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat",
+        "skip" : "Skip",
+        "title" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the 2"
+      }, {
+        "backgroundImage" : "https://firebasestorage.googleapis.com/v0/b/ionic2templates.appspot.com/o/avatar-large%2F7.jpg?alt=media&token=db754b88-6e2d-4eb7-a1ac-e9187e097658",
+        "button" : "Finish",
+        "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat",
+        "skip" : "Skip",
+        "title" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the 3"
+      } ]
+    }
+  }
+}

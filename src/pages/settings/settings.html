@@ -1,0 +1,44 @@
+<ion-header>
+
+  <ion-navbar>
+    <button ion-button icon-only menuToggle>
+      <ion-icon name="menu"></ion-icon>
+    </button>
+    <ion-title>
+      Configuración
+    </ion-title>
+  </ion-navbar>
+
+</ion-header>
+
+<ion-content class="page-settings">
+  <ion-list class="list-avatar" padding>
+    <ion-item text-center *ngIf="shared.customerData.customers_id==null" (click)="openLoginPage()">
+      <ion-avatar>
+        <ion-icon name="contact"></ion-icon>
+      </ion-avatar>
+      <h2>Login & Register</h2>
+      <p>Please login or create an account for free</p>
+    </ion-item>
+    <ion-item text-center *ngIf="shared.customerData.customers_id!=null">
+      <ion-avatar>
+        <img src="{{shared.customerData.customers_picture}}">
+      </ion-avatar>
+      <h2>{{shared.customerData.customers_firstname +"&nbsp;"+shared.customerData.customers_lastname}}</h2>
+      <p>{{shared.customerData.customers_email_address}}</p>
+      <button ion-button color="light" (click)="openPage('myAccount')">
+       Edit Profile
+      </button>
+    </ion-item>
+  </ion-list>
+
+  <ion-list *ngIf="shared.customerData.customers_id!=null" padding>
+    <button ion-button block color="secondary" (click)="logOut()">
+      Log Out
+    </button>
+  </ion-list>
+</ion-content>
+
+<ion-footer *ngIf="config.footerShowHide=='1'">
+  <footer></footer>
+</ion-footer>

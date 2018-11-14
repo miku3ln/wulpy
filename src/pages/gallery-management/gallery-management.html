@@ -1,0 +1,88 @@
+<ion-header>
+  <ion-navbar>
+    <ion-buttons left>
+      <button ion-button (click)="dismiss()">
+        <ion-icon name="md-close"></ion-icon>
+      </button>
+    </ion-buttons>
+    <ion-title> {{title}}</ion-title>
+  </ion-navbar>
+</ion-header>
+
+
+<ion-content padding>
+  <div class="content-gallery" *ngIf="dataGallery.length">
+    <h3>Fotos</h3>
+    <ion-slides pager="true">
+
+      <ion-slide *ngFor="let slide of dataGallery">
+        <ion-fab right top>
+          <button ion-fab mini>
+            <ion-icon name="add"></ion-icon>
+          </button>
+          <ion-fab-list>
+            <button ion-fab (click)="editGallery(slide)">
+              <ion-icon name="create"></ion-icon>
+            </button>
+            <button ion-fab (click)="removeGallery(slide)">
+              <ion-icon name="trash"></ion-icon>
+            </button>
+          </ion-fab-list>
+        </ion-fab>
+        <img src="{{slide.url}}">
+        <h2 class="slide-title" [innerHTML]="slide.name"></h2>
+        <p [innerHTML]="slide.description"></p>
+      </ion-slide>
+    </ion-slides>
+  </div>
+
+  <form #entidadForm="ngForm" class="form" (ngSubmit)="saveRegister()">
+    <ion-row>
+      <ion-col col-12>
+        <div class="photo">
+          <div class="image">
+            <img class="avatar" src="assets/avatar.png" *ngIf="image==null">
+            <img class="avatar" src="{{image}}" *ngIf="image!=null">
+          </div>
+          <div class="upload">
+            <ion-icon name="camera" (click)='chooseFile()'></ion-icon>
+          </div>
+        </div>
+      </ion-col>
+    </ion-row>
+    <ion-row>
+      <ion-col>
+        <ion-list>
+          <ion-item>
+            <ion-input type="text" placeholder="Nombre *" name="name" [(ngModel)]="formData.name"
+                       required></ion-input>
+          </ion-item>
+          <ion-item>
+            <ion-textarea type="text" placeholder="Descripción" name="description" [(ngModel)]="formData.description"
+            >
+            </ion-textarea>
+          </ion-item>
+
+          <ion-input class="ion-input-uri" type="text" placeholder="url*" name="url" [(ngModel)]="formData.url"
+                     required></ion-input>
+
+        </ion-list>
+      </ion-col>
+      <ion-col col-12>
+        <label *ngIf="errorMessage!=''">
+          <span>{{errorMessage}}</span>
+        </label>
+      </ion-col>
+    </ion-row>
+    <ion-row>
+      <ion-col>
+        <button ion-button block color="secondary" type="submit" [disabled]="!entidadForm.form.valid">
+          {{btnRegisterTitle}}
+        </button>
+      </ion-col>
+    </ion-row>
+  </form>
+
+
+</ion-content>
+

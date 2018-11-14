@@ -1,0 +1,62 @@
+
+<ion-header>
+
+  <ion-navbar>
+    <ion-buttons left>
+      <button ion-button (click)="dismiss()">
+        <ion-icon name="md-close"></ion-icon>
+      </button>
+    </ion-buttons>
+    <ion-title> {{title}}</ion-title>
+  </ion-navbar>
+</ion-header>
+
+
+<ion-content padding>
+
+  <form #entidadForm="ngForm" class="form" (ngSubmit)="saveRegister()">
+    <ion-row>
+      <ion-col col-12>
+        <div class="photo" (click)='chooseFile()'>
+          <div class="image">
+            <img class="avatar" src="assets/avatar.png" *ngIf="image==null">
+            <img class="avatar" src="{{image}}" *ngIf="image!=null">
+          </div>
+          <div class="upload">
+            <ion-icon name="camera" ></ion-icon>
+          </div>
+        </div>
+      </ion-col>
+    </ion-row>
+    <ion-row>
+      <ion-col>
+        <ion-list>
+          <ion-item>
+            <ion-input type="text" placeholder="Titulo*" name="name" [(ngModel)]="formData.name"
+                       required></ion-input>
+          </ion-item>
+          <ion-item>
+            <ion-textarea type="text" placeholder="Descripcion" name="description" [(ngModel)]="formData.description"
+            >
+            </ion-textarea>
+          </ion-item>
+
+          <ion-input class="ion-input-uri" type="text" placeholder="url*" name="url" [(ngModel)]="formData.url"
+                     ></ion-input>
+
+
+        </ion-list>
+      </ion-col>
+      <ion-col col-12>
+        <label *ngIf="errorMessage!=''">
+          <span>{{errorMessage}}</span>
+        </label>
+      </ion-col>
+    </ion-row>
+    <ion-row>
+      <ion-col>
+        <button ion-button block color="secondary" type="submit" [disabled]="!entidadForm.form.valid">{{btnRegisterTitle}}</button>
+      </ion-col>
+    </ion-row>
+  </form>
+</ion-content>

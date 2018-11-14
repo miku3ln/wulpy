@@ -1,0 +1,28 @@
+page-about-us-management {
+  .items-content {
+    /* .content__item {
+       height: 199px;
+       background: white;
+     }*/
+  }
+  .form {
+    margin-top: 16%;
+  }
+  .content-btn-management {
+    width: 46%;
+    position: fixed;
+    top: 10%;
+    right: 0%;
+    z-index: 15;
+  }
+
+  .content-btn-options {
+    position: fixed;
+    top: 16%;
+    right: 0%;
+  }
+  .items-content__title {
+    font-weight: 600;
+    padding-top: 6%;
+  }
+}
